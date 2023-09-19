@@ -1,0 +1,2454 @@
+Country,Year,Sex,suicides/100k pop,Latitude,Longitude
+Albania,1987,Both sexes,2.7,41.0,20.0
+Albania,1988,Both sexes,2.7,41.0,20.0
+Albania,1989,Both sexes,2.8,41.0,20.0
+Albania,1992,Both sexes,1.5,41.0,20.0
+Albania,1993,Both sexes,2.7,41.0,20.0
+Albania,1994,Both sexes,2.7,41.0,20.0
+Albania,1995,Both sexes,3.4,41.0,20.0
+Albania,1996,Both sexes,3.6,41.0,20.0
+Albania,1997,Both sexes,6.5,41.0,20.0
+Albania,1998,Both sexes,5.5,41.0,20.0
+Albania,1999,Both sexes,5.8,41.0,20.0
+Albania,2000,Both sexes,2.6,41.0,20.0
+Albania,2001,Both sexes,4.2,41.0,20.0
+Albania,2002,Both sexes,5.2,41.0,20.0
+Albania,2003,Both sexes,4.9,41.0,20.0
+Albania,2004,Both sexes,5.4,41.0,20.0
+Albania,2005,Both sexes,0.0,41.0,20.0
+Albania,2006,Both sexes,0.0,41.0,20.0
+Albania,2007,Both sexes,5.5,41.0,20.0
+Albania,2008,Both sexes,5.9,41.0,20.0
+Albania,2009,Both sexes,0.0,41.0,20.0
+Albania,2010,Both sexes,3.5,41.0,20.0
+Antigua and Barbuda,1985,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1986,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1987,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1988,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1989,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1990,Both sexes,1.4,17.0,-61.0
+Antigua and Barbuda,1991,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1992,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1993,Both sexes,1.2,17.0,-61.0
+Antigua and Barbuda,1994,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1995,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1998,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,1999,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2000,Both sexes,3.3,17.0,-61.0
+Antigua and Barbuda,2001,Both sexes,1.6,17.0,-61.0
+Antigua and Barbuda,2002,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2003,Both sexes,2.3,17.0,-61.0
+Antigua and Barbuda,2004,Both sexes,3.0,17.0,-61.0
+Antigua and Barbuda,2005,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2006,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2007,Both sexes,0.7,17.0,-61.0
+Antigua and Barbuda,2008,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2009,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2012,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2013,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2014,Both sexes,0.0,17.0,-61.0
+Antigua and Barbuda,2015,Both sexes,1.3,17.0,-61.0
+Argentina,1985,Both sexes,11.2,-34.0,-64.0
+Argentina,1986,Both sexes,12.7,-34.0,-64.0
+Argentina,1987,Both sexes,12.1,-34.0,-64.0
+Argentina,1988,Both sexes,12.2,-34.0,-64.0
+Argentina,1989,Both sexes,11.6,-34.0,-64.0
+Argentina,1990,Both sexes,11.2,-34.0,-64.0
+Argentina,1991,Both sexes,9.9,-34.0,-64.0
+Argentina,1992,Both sexes,10.6,-34.0,-64.0
+Argentina,1993,Both sexes,11.2,-34.0,-64.0
+Argentina,1994,Both sexes,10.2,-34.0,-64.0
+Argentina,1995,Both sexes,10.0,-34.0,-64.0
+Argentina,1996,Both sexes,9.8,-34.0,-64.0
+Argentina,1997,Both sexes,9.3,-34.0,-64.0
+Argentina,1998,Both sexes,9.7,-34.0,-64.0
+Argentina,1999,Both sexes,9.8,-34.0,-64.0
+Argentina,2000,Both sexes,10.9,-34.0,-64.0
+Argentina,2001,Both sexes,12.0,-34.0,-64.0
+Argentina,2002,Both sexes,11.6,-34.0,-64.0
+Argentina,2003,Both sexes,12.2,-34.0,-64.0
+Argentina,2004,Both sexes,10.9,-34.0,-64.0
+Argentina,2005,Both sexes,10.7,-34.0,-64.0
+Argentina,2006,Both sexes,10.7,-34.0,-64.0
+Argentina,2007,Both sexes,9.9,-34.0,-64.0
+Argentina,2008,Both sexes,9.8,-34.0,-64.0
+Argentina,2009,Both sexes,8.9,-34.0,-64.0
+Argentina,2010,Both sexes,9.3,-34.0,-64.0
+Argentina,2011,Both sexes,8.8,-34.0,-64.0
+Argentina,2012,Both sexes,10.0,-34.0,-64.0
+Argentina,2013,Both sexes,8.6,-34.0,-64.0
+Argentina,2014,Both sexes,9.3,-34.0,-64.0
+Argentina,2015,Both sexes,9.3,-34.0,-64.0
+Armenia,1990,Both sexes,3.4,40.0,45.0
+Armenia,1991,Both sexes,3.8,40.0,45.0
+Armenia,1992,Both sexes,3.4,40.0,45.0
+Armenia,1993,Both sexes,4.3,40.0,45.0
+Armenia,1994,Both sexes,5.6,40.0,45.0
+Armenia,1995,Both sexes,4.3,40.0,45.0
+Armenia,1996,Both sexes,3.1,40.0,45.0
+Armenia,1997,Both sexes,2.7,40.0,45.0
+Armenia,1998,Both sexes,2.3,40.0,45.0
+Armenia,1999,Both sexes,2.1,40.0,45.0
+Armenia,2000,Both sexes,2.9,40.0,45.0
+Armenia,2001,Both sexes,2.5,40.0,45.0
+Armenia,2002,Both sexes,3.2,40.0,45.0
+Armenia,2003,Both sexes,2.8,40.0,45.0
+Armenia,2006,Both sexes,3.6,40.0,45.0
+Armenia,2007,Both sexes,3.3,40.0,45.0
+Armenia,2008,Both sexes,2.9,40.0,45.0
+Armenia,2009,Both sexes,2.8,40.0,45.0
+Armenia,2010,Both sexes,3.4,40.0,45.0
+Armenia,2011,Both sexes,2.7,40.0,45.0
+Armenia,2012,Both sexes,3.0,40.0,45.0
+Armenia,2013,Both sexes,3.1,40.0,45.0
+Armenia,2014,Both sexes,3.1,40.0,45.0
+Armenia,2015,Both sexes,3.8,40.0,45.0
+Armenia,2016,Both sexes,4.1,40.0,45.0
+Aruba,1995,Both sexes,25.7,12.0,-69.97
+Aruba,1999,Both sexes,9.6,12.0,-69.97
+Aruba,2000,Both sexes,25.4,12.0,-69.97
+Aruba,2001,Both sexes,2.3,12.0,-69.97
+Aruba,2002,Both sexes,10.5,12.0,-69.97
+Aruba,2003,Both sexes,1.1,12.0,-69.97
+Aruba,2004,Both sexes,14.7,12.0,-69.97
+Aruba,2005,Both sexes,8.3,12.0,-69.97
+Aruba,2006,Both sexes,8.0,12.0,-69.97
+Aruba,2007,Both sexes,7.7,12.0,-69.97
+Aruba,2008,Both sexes,3.5,12.0,-69.97
+Aruba,2009,Both sexes,3.5,12.0,-69.97
+Aruba,2010,Both sexes,4.9,12.0,-69.97
+Aruba,2011,Both sexes,7.8,12.0,-69.97
+Australia,1985,Both sexes,13.6,-25.0,135.0
+Australia,1986,Both sexes,14.6,-25.0,135.0
+Australia,1987,Both sexes,15.7,-25.0,135.0
+Australia,1988,Both sexes,14.9,-25.0,135.0
+Australia,1989,Both sexes,14.0,-25.0,135.0
+Australia,1990,Both sexes,14.4,-25.0,135.0
+Australia,1991,Both sexes,15.0,-25.0,135.0
+Australia,1992,Both sexes,14.2,-25.0,135.0
+Australia,1993,Both sexes,12.9,-25.0,135.0
+Australia,1994,Both sexes,14.0,-25.0,135.0
+Australia,1995,Both sexes,12.9,-25.0,135.0
+Australia,1996,Both sexes,14.6,-25.0,135.0
+Australia,1997,Both sexes,15.6,-25.0,135.0
+Australia,1998,Both sexes,14.7,-25.0,135.0
+Australia,1999,Both sexes,13.9,-25.0,135.0
+Australia,2000,Both sexes,13.2,-25.0,135.0
+Australia,2001,Both sexes,13.2,-25.0,135.0
+Australia,2002,Both sexes,12.1,-25.0,135.0
+Australia,2003,Both sexes,11.2,-25.0,135.0
+Australia,2004,Both sexes,11.1,-25.0,135.0
+Australia,2006,Both sexes,10.7,-25.0,135.0
+Australia,2007,Both sexes,10.9,-25.0,135.0
+Australia,2008,Both sexes,10.9,-25.0,135.0
+Australia,2009,Both sexes,10.8,-25.0,135.0
+Australia,2010,Both sexes,11.1,-25.0,135.0
+Australia,2011,Both sexes,11.1,-25.0,135.0
+Australia,2012,Both sexes,11.6,-25.0,135.0
+Australia,2013,Both sexes,11.6,-25.0,135.0
+Australia,2014,Both sexes,12.4,-25.0,135.0
+Australia,2015,Both sexes,12.8,-25.0,135.0
+Austria,1985,Both sexes,32.1,47.6,13.8
+Austria,1986,Both sexes,33.5,47.6,13.8
+Austria,1987,Both sexes,33.8,47.6,13.8
+Austria,1988,Both sexes,29.8,47.6,13.8
+Austria,1989,Both sexes,29.9,47.6,13.8
+Austria,1990,Both sexes,29.5,47.6,13.8
+Austria,1991,Both sexes,29.6,47.6,13.8
+Austria,1992,Both sexes,28.5,47.6,13.8
+Austria,1993,Both sexes,29.0,47.6,13.8
+Austria,1994,Both sexes,28.6,47.6,13.8
+Austria,1995,Both sexes,29.0,47.6,13.8
+Austria,1996,Both sexes,28.6,47.6,13.8
+Austria,1997,Both sexes,24.8,47.6,13.8
+Austria,1998,Both sexes,24.1,47.6,13.8
+Austria,1999,Both sexes,23.4,47.6,13.8
+Austria,2000,Both sexes,24.1,47.6,13.8
+Austria,2001,Both sexes,21.8,47.6,13.8
+Austria,2002,Both sexes,23.1,47.6,13.8
+Austria,2003,Both sexes,21.4,47.6,13.8
+Austria,2004,Both sexes,21.2,47.6,13.8
+Austria,2005,Both sexes,19.6,47.6,13.8
+Austria,2006,Both sexes,18.2,47.6,13.8
+Austria,2007,Both sexes,18.1,47.6,13.8
+Austria,2008,Both sexes,18.0,47.6,13.8
+Austria,2009,Both sexes,17.8,47.6,13.8
+Austria,2010,Both sexes,17.3,47.6,13.8
+Austria,2011,Both sexes,17.6,47.6,13.8
+Austria,2012,Both sexes,17.2,47.6,13.8
+Austria,2013,Both sexes,17.7,47.6,13.8
+Austria,2014,Both sexes,17.5,47.6,13.8
+Austria,2015,Both sexes,16.2,47.6,13.8
+Austria,2016,Both sexes,18.3,47.6,13.8
+Azerbaijan,1990,Both sexes,2.1,40.5,47.5
+Azerbaijan,1991,Both sexes,2.7,40.5,47.5
+Azerbaijan,1992,Both sexes,2.9,40.5,47.5
+Azerbaijan,1993,Both sexes,2.6,40.5,47.5
+Azerbaijan,1994,Both sexes,1.0,40.5,47.5
+Azerbaijan,1995,Both sexes,1.2,40.5,47.5
+Azerbaijan,1996,Both sexes,1.5,40.5,47.5
+Azerbaijan,1997,Both sexes,1.5,40.5,47.5
+Azerbaijan,1998,Both sexes,0.9,40.5,47.5
+Azerbaijan,1999,Both sexes,0.7,40.5,47.5
+Azerbaijan,2000,Both sexes,1.2,40.5,47.5
+Azerbaijan,2001,Both sexes,5.0,40.5,47.5
+Azerbaijan,2002,Both sexes,1.6,40.5,47.5
+Azerbaijan,2003,Both sexes,2.3,40.5,47.5
+Azerbaijan,2004,Both sexes,1.5,40.5,47.5
+Azerbaijan,2007,Both sexes,1.0,40.5,47.5
+Bahamas,1985,Both sexes,0.4,25.03,-77.4
+Bahamas,1987,Both sexes,1.1,25.03,-77.4
+Bahamas,1993,Both sexes,3.1,25.03,-77.4
+Bahamas,1994,Both sexes,0.9,25.03,-77.4
+Bahamas,1995,Both sexes,0.6,25.03,-77.4
+Bahamas,1996,Both sexes,0.8,25.03,-77.4
+Bahamas,1997,Both sexes,0.6,25.03,-77.4
+Bahamas,1998,Both sexes,0.9,25.03,-77.4
+Bahamas,1999,Both sexes,1.9,25.03,-77.4
+Bahamas,2000,Both sexes,3.4,25.03,-77.4
+Bahamas,2001,Both sexes,0.2,25.03,-77.4
+Bahamas,2002,Both sexes,0.8,25.03,-77.4
+Bahamas,2003,Both sexes,0.2,25.03,-77.4
+Bahamas,2004,Both sexes,0.5,25.03,-77.4
+Bahamas,2005,Both sexes,1.1,25.03,-77.4
+Bahamas,2006,Both sexes,0.5,25.03,-77.4
+Bahamas,2007,Both sexes,1.1,25.03,-77.4
+Bahamas,2008,Both sexes,1.0,25.03,-77.4
+Bahamas,2009,Both sexes,1.3,25.03,-77.4
+Bahamas,2010,Both sexes,4.9,25.03,-77.4
+Bahamas,2011,Both sexes,1.1,25.03,-77.4
+Bahamas,2012,Both sexes,1.0,25.03,-77.4
+Bahamas,2013,Both sexes,1.2,25.03,-77.4
+Bahrain,1985,Both sexes,1.7,26.0,50.55
+Bahrain,1987,Both sexes,2.1,26.0,50.55
+Bahrain,1988,Both sexes,2.1,26.0,50.55
+Bahrain,1997,Both sexes,0.0,26.0,50.55
+Bahrain,1998,Both sexes,0.0,26.0,50.55
+Bahrain,1999,Both sexes,1.9,26.0,50.55
+Bahrain,2000,Both sexes,2.7,26.0,50.55
+Bahrain,2001,Both sexes,2.6,26.0,50.55
+Bahrain,2002,Both sexes,2.3,26.0,50.55
+Bahrain,2003,Both sexes,2.7,26.0,50.55
+Bahrain,2004,Both sexes,4.5,26.0,50.55
+Bahrain,2005,Both sexes,3.4,26.0,50.55
+Bahrain,2006,Both sexes,2.3,26.0,50.55
+Bahrain,2007,Both sexes,2.7,26.0,50.55
+Bahrain,2008,Both sexes,2.3,26.0,50.55
+Bahrain,2009,Both sexes,2.0,26.0,50.55
+Bahrain,2010,Both sexes,1.0,26.0,50.55
+Bahrain,2011,Both sexes,1.2,26.0,50.55
+Bahrain,2012,Both sexes,0.7,26.0,50.55
+Bahrain,2013,Both sexes,0.2,26.0,50.55
+Bahrain,2014,Both sexes,0.5,26.0,50.55
+Barbados,1985,Both sexes,5.1,13.17,-59.55
+Barbados,1986,Both sexes,3.1,13.17,-59.55
+Barbados,1987,Both sexes,2.5,13.17,-59.55
+Barbados,1988,Both sexes,4.8,13.17,-59.55
+Barbados,1989,Both sexes,6.1,13.17,-59.55
+Barbados,1990,Both sexes,10.1,13.17,-59.55
+Barbados,1991,Both sexes,6.4,13.17,-59.55
+Barbados,1992,Both sexes,5.3,13.17,-59.55
+Barbados,1993,Both sexes,7.6,13.17,-59.55
+Barbados,1994,Both sexes,5.6,13.17,-59.55
+Barbados,1995,Both sexes,6.0,13.17,-59.55
+Barbados,2000,Both sexes,3.1,13.17,-59.55
+Barbados,2001,Both sexes,0.7,13.17,-59.55
+Barbados,2002,Both sexes,0.0,13.17,-59.55
+Barbados,2003,Both sexes,0.0,13.17,-59.55
+Barbados,2004,Both sexes,0.6,13.17,-59.55
+Barbados,2005,Both sexes,0.2,13.17,-59.55
+Barbados,2006,Both sexes,3.8,13.17,-59.55
+Barbados,2007,Both sexes,0.0,13.17,-59.55
+Barbados,2008,Both sexes,0.2,13.17,-59.55
+Barbados,2009,Both sexes,2.4,13.17,-59.55
+Barbados,2010,Both sexes,0.6,13.17,-59.55
+Barbados,2011,Both sexes,0.0,13.17,-59.55
+Barbados,2012,Both sexes,0.0,13.17,-59.55
+Barbados,2013,Both sexes,0.0,13.17,-59.55
+Belarus,1990,Both sexes,22.9,53.0,28.0
+Belarus,1991,Both sexes,24.8,53.0,28.0
+Belarus,1992,Both sexes,26.2,53.0,28.0
+Belarus,1993,Both sexes,30.4,53.0,28.0
+Belarus,1994,Both sexes,33.6,53.0,28.0
+Belarus,1995,Both sexes,33.7,53.0,28.0
+Belarus,1996,Both sexes,38.0,53.0,28.0
+Belarus,1997,Both sexes,37.2,53.0,28.0
+Belarus,1998,Both sexes,38.0,53.0,28.0
+Belarus,1999,Both sexes,37.5,53.0,28.0
+Belarus,2000,Both sexes,37.3,53.0,28.0
+Belarus,2001,Both sexes,35.0,53.0,28.0
+Belarus,2002,Both sexes,34.2,53.0,28.0
+Belarus,2003,Both sexes,37.1,53.0,28.0
+Belarus,2007,Both sexes,29.7,53.0,28.0
+Belarus,2008,Both sexes,29.3,53.0,28.0
+Belarus,2009,Both sexes,31.3,53.0,28.0
+Belarus,2010,Both sexes,27.7,53.0,28.0
+Belarus,2011,Both sexes,24.9,53.0,28.0
+Belarus,2013,Both sexes,22.8,53.0,28.0
+Belarus,2014,Both sexes,21.1,53.0,28.0
+Belgium,1985,Both sexes,27.7,50.85,4.35
+Belgium,1986,Both sexes,26.2,50.85,4.35
+Belgium,1987,Both sexes,27.3,50.85,4.35
+Belgium,1988,Both sexes,23.7,50.85,4.35
+Belgium,1989,Both sexes,23.7,50.85,4.35
+Belgium,1990,Both sexes,23.1,50.85,4.35
+Belgium,1991,Both sexes,22.0,50.85,4.35
+Belgium,1992,Both sexes,22.2,50.85,4.35
+Belgium,1993,Both sexes,25.0,50.85,4.35
+Belgium,1994,Both sexes,25.0,50.85,4.35
+Belgium,1995,Both sexes,23.8,50.85,4.35
+Belgium,1996,Both sexes,22.3,50.85,4.35
+Belgium,1997,Both sexes,23.7,50.85,4.35
+Belgium,1998,Both sexes,22.1,50.85,4.35
+Belgium,1999,Both sexes,19.2,50.85,4.35
+Belgium,2000,Both sexes,22.3,50.85,4.35
+Belgium,2001,Both sexes,21.8,50.85,4.35
+Belgium,2002,Both sexes,20.7,50.85,4.35
+Belgium,2003,Both sexes,20.7,50.85,4.35
+Belgium,2004,Both sexes,19.3,50.85,4.35
+Belgium,2005,Both sexes,19.3,50.85,4.35
+Belgium,2006,Both sexes,17.9,50.85,4.35
+Belgium,2007,Both sexes,17.4,50.85,4.35
+Belgium,2008,Both sexes,18.5,50.85,4.35
+Belgium,2009,Both sexes,18.2,50.85,4.35
+Belgium,2010,Both sexes,18.3,50.85,4.35
+Belgium,2011,Both sexes,18.9,50.85,4.35
+Belgium,2012,Both sexes,18.1,50.85,4.35
+Belgium,2013,Both sexes,16.8,50.85,4.35
+Belgium,2014,Both sexes,16.8,50.85,4.35
+Belgium,2015,Both sexes,16.4,50.85,4.35
+Belize,1986,Both sexes,1.6,17.25,-88.75
+Belize,1987,Both sexes,2.6,17.25,-88.75
+Belize,1989,Both sexes,0.4,17.25,-88.75
+Belize,1990,Both sexes,2.5,17.25,-88.75
+Belize,1991,Both sexes,2.0,17.25,-88.75
+Belize,1993,Both sexes,0.5,17.25,-88.75
+Belize,1994,Both sexes,13.7,17.25,-88.75
+Belize,1995,Both sexes,12.0,17.25,-88.75
+Belize,1996,Both sexes,5.1,17.25,-88.75
+Belize,1997,Both sexes,0.5,17.25,-88.75
+Belize,1998,Both sexes,6.8,17.25,-88.75
+Belize,1999,Both sexes,7.0,17.25,-88.75
+Belize,2000,Both sexes,13.4,17.25,-88.75
+Belize,2001,Both sexes,12.6,17.25,-88.75
+Belize,2002,Both sexes,5.8,17.25,-88.75
+Belize,2003,Both sexes,4.9,17.25,-88.75
+Belize,2004,Both sexes,9.8,17.25,-88.75
+Belize,2005,Both sexes,3.8,17.25,-88.75
+Belize,2006,Both sexes,3.2,17.25,-88.75
+Belize,2007,Both sexes,6.5,17.25,-88.75
+Belize,2008,Both sexes,7.2,17.25,-88.75
+Belize,2009,Both sexes,4.8,17.25,-88.75
+Belize,2010,Both sexes,5.1,17.25,-88.75
+Belize,2011,Both sexes,12.8,17.25,-88.75
+Belize,2012,Both sexes,6.1,17.25,-88.75
+Belize,2013,Both sexes,4.7,17.25,-88.75
+Belize,2014,Both sexes,7.6,17.25,-88.75
+Belize,2015,Both sexes,11.3,17.25,-88.75
+Bosnia and Herzegovina,2011,Both sexes,0.1,44.0,18.0
+Bosnia and Herzegovina,2014,Both sexes,9.1,44.0,18.0
+Brazil,1985,Both sexes,4.9,-10.0,-55.0
+Brazil,1986,Both sexes,4.8,-10.0,-55.0
+Brazil,1987,Both sexes,5.8,-10.0,-55.0
+Brazil,1988,Both sexes,5.4,-10.0,-55.0
+Brazil,1989,Both sexes,5.3,-10.0,-55.0
+Brazil,1990,Both sexes,5.6,-10.0,-55.0
+Brazil,1991,Both sexes,5.7,-10.0,-55.0
+Brazil,1992,Both sexes,5.4,-10.0,-55.0
+Brazil,1993,Both sexes,5.7,-10.0,-55.0
+Brazil,1994,Both sexes,6.0,-10.0,-55.0
+Brazil,1995,Both sexes,6.3,-10.0,-55.0
+Brazil,1996,Both sexes,6.1,-10.0,-55.0
+Brazil,1997,Both sexes,6.4,-10.0,-55.0
+Brazil,1998,Both sexes,6.3,-10.0,-55.0
+Brazil,1999,Both sexes,5.6,-10.0,-55.0
+Brazil,2000,Both sexes,5.7,-10.0,-55.0
+Brazil,2001,Both sexes,6.1,-10.0,-55.0
+Brazil,2002,Both sexes,5.8,-10.0,-55.0
+Brazil,2003,Both sexes,5.7,-10.0,-55.0
+Brazil,2004,Both sexes,5.9,-10.0,-55.0
+Brazil,2005,Both sexes,6.1,-10.0,-55.0
+Brazil,2006,Both sexes,5.8,-10.0,-55.0
+Brazil,2007,Both sexes,6.0,-10.0,-55.0
+Brazil,2008,Both sexes,6.0,-10.0,-55.0
+Brazil,2009,Both sexes,5.9,-10.0,-55.0
+Brazil,2010,Both sexes,6.1,-10.0,-55.0
+Brazil,2011,Both sexes,6.0,-10.0,-55.0
+Brazil,2012,Both sexes,6.2,-10.0,-55.0
+Brazil,2013,Both sexes,6.1,-10.0,-55.0
+Brazil,2014,Both sexes,6.1,-10.0,-55.0
+Brazil,2015,Both sexes,6.5,-10.0,-55.0
+Bulgaria,1985,Both sexes,25.3,43.0,25.0
+Bulgaria,1986,Both sexes,23.0,43.0,25.0
+Bulgaria,1987,Both sexes,25.7,43.0,25.0
+Bulgaria,1988,Both sexes,24.4,43.0,25.0
+Bulgaria,1989,Both sexes,24.3,43.0,25.0
+Bulgaria,1990,Both sexes,21.4,43.0,25.0
+Bulgaria,1991,Both sexes,22.4,43.0,25.0
+Bulgaria,1992,Both sexes,25.9,43.0,25.0
+Bulgaria,1993,Both sexes,23.2,43.0,25.0
+Bulgaria,1994,Both sexes,24.0,43.0,25.0
+Bulgaria,1995,Both sexes,23.2,43.0,25.0
+Bulgaria,1996,Both sexes,24.7,43.0,25.0
+Bulgaria,1997,Both sexes,23.0,43.0,25.0
+Bulgaria,1998,Both sexes,25.4,43.0,25.0
+Bulgaria,1999,Both sexes,20.9,43.0,25.0
+Bulgaria,2000,Both sexes,21.6,43.0,25.0
+Bulgaria,2001,Both sexes,20.4,43.0,25.0
+Bulgaria,2002,Both sexes,20.6,43.0,25.0
+Bulgaria,2003,Both sexes,17.3,43.0,25.0
+Bulgaria,2004,Both sexes,15.3,43.0,25.0
+Bulgaria,2005,Both sexes,14.8,43.0,25.0
+Bulgaria,2006,Both sexes,15.5,43.0,25.0
+Bulgaria,2007,Both sexes,14.5,43.0,25.0
+Bulgaria,2008,Both sexes,14.2,43.0,25.0
+Bulgaria,2009,Both sexes,12.9,43.0,25.0
+Bulgaria,2010,Both sexes,13.2,43.0,25.0
+Bulgaria,2011,Both sexes,11.1,43.0,25.0
+Bulgaria,2012,Both sexes,13.7,43.0,25.0
+Bulgaria,2013,Both sexes,11.2,43.0,25.0
+Bulgaria,2014,Both sexes,11.6,43.0,25.0
+Cabo Verde,2011,Both sexes,11.2,16.0,-24.0
+Canada,1985,Both sexes,13.9,60.0,-95.0
+Canada,1986,Both sexes,15.8,60.0,-95.0
+Canada,1987,Both sexes,14.9,60.0,-95.0
+Canada,1988,Both sexes,14.6,60.0,-95.0
+Canada,1989,Both sexes,14.2,60.0,-95.0
+Canada,1990,Both sexes,13.8,60.0,-95.0
+Canada,1991,Both sexes,14.0,60.0,-95.0
+Canada,1992,Both sexes,13.6,60.0,-95.0
+Canada,1993,Both sexes,13.7,60.0,-95.0
+Canada,1994,Both sexes,13.5,60.0,-95.0
+Canada,1995,Both sexes,13.6,60.0,-95.0
+Canada,1996,Both sexes,13.6,60.0,-95.0
+Canada,1997,Both sexes,12.6,60.0,-95.0
+Canada,1998,Both sexes,12.5,60.0,-95.0
+Canada,1999,Both sexes,13.2,60.0,-95.0
+Canada,2000,Both sexes,11.6,60.0,-95.0
+Canada,2001,Both sexes,11.5,60.0,-95.0
+Canada,2002,Both sexes,11.5,60.0,-95.0
+Canada,2003,Both sexes,11.4,60.0,-95.0
+Canada,2004,Both sexes,11.0,60.0,-95.0
+Canada,2005,Both sexes,11.2,60.0,-95.0
+Canada,2006,Both sexes,10.5,60.0,-95.0
+Canada,2007,Both sexes,10.6,60.0,-95.0
+Canada,2008,Both sexes,10.6,60.0,-95.0
+Canada,2009,Both sexes,10.9,60.0,-95.0
+Canada,2010,Both sexes,11.1,60.0,-95.0
+Canada,2011,Both sexes,10.4,60.0,-95.0
+Canada,2012,Both sexes,10.7,60.0,-95.0
+Canada,2013,Both sexes,11.1,60.0,-95.0
+Chile,1985,Both sexes,9.1,-30.0,-71.0
+Chile,1986,Both sexes,7.6,-30.0,-71.0
+Chile,1987,Both sexes,7.5,-30.0,-71.0
+Chile,1988,Both sexes,7.9,-30.0,-71.0
+Chile,1989,Both sexes,8.4,-30.0,-71.0
+Chile,1990,Both sexes,7.7,-30.0,-71.0
+Chile,1991,Both sexes,8.2,-30.0,-71.0
+Chile,1992,Both sexes,6.6,-30.0,-71.0
+Chile,1993,Both sexes,8.6,-30.0,-71.0
+Chile,1994,Both sexes,7.9,-30.0,-71.0
+Chile,1995,Both sexes,9.1,-30.0,-71.0
+Chile,1996,Both sexes,8.0,-30.0,-71.0
+Chile,1997,Both sexes,8.3,-30.0,-71.0
+Chile,1998,Both sexes,9.1,-30.0,-71.0
+Chile,1999,Both sexes,9.3,-30.0,-71.0
+Chile,2000,Both sexes,12.4,-30.0,-71.0
+Chile,2001,Both sexes,12.3,-30.0,-71.0
+Chile,2002,Both sexes,12.4,-30.0,-71.0
+Chile,2003,Both sexes,12.8,-30.0,-71.0
+Chile,2004,Both sexes,13.0,-30.0,-71.0
+Chile,2005,Both sexes,12.3,-30.0,-71.0
+Chile,2006,Both sexes,12.9,-30.0,-71.0
+Chile,2007,Both sexes,12.6,-30.0,-71.0
+Chile,2008,Both sexes,14.0,-30.0,-71.0
+Chile,2009,Both sexes,14.5,-30.0,-71.0
+Chile,2010,Both sexes,13.6,-30.0,-71.0
+Chile,2011,Both sexes,13.4,-30.0,-71.0
+Chile,2012,Both sexes,12.4,-30.0,-71.0
+Chile,2013,Both sexes,11.2,-30.0,-71.0
+Chile,2014,Both sexes,11.4,-30.0,-71.0
+Chile,2015,Both sexes,12.3,-30.0,-71.0
+Colombia,1985,Both sexes,5.2,4.0,-74.0
+Colombia,1986,Both sexes,4.2,4.0,-74.0
+Colombia,1987,Both sexes,3.8,4.0,-74.0
+Colombia,1988,Both sexes,4.2,4.0,-74.0
+Colombia,1989,Both sexes,3.5,4.0,-74.0
+Colombia,1990,Both sexes,3.6,4.0,-74.0
+Colombia,1991,Both sexes,3.6,4.0,-74.0
+Colombia,1992,Both sexes,4.1,4.0,-74.0
+Colombia,1993,Both sexes,4.1,4.0,-74.0
+Colombia,1994,Both sexes,4.7,4.0,-74.0
+Colombia,1995,Both sexes,4.1,4.0,-74.0
+Colombia,1996,Both sexes,4.4,4.0,-74.0
+Colombia,1997,Both sexes,4.4,4.0,-74.0
+Colombia,1998,Both sexes,6.8,4.0,-74.0
+Colombia,1999,Both sexes,7.0,4.0,-74.0
+Colombia,2000,Both sexes,7.5,4.0,-74.0
+Colombia,2001,Both sexes,7.4,4.0,-74.0
+Colombia,2002,Both sexes,6.8,4.0,-74.0
+Colombia,2003,Both sexes,6.7,4.0,-74.0
+Colombia,2004,Both sexes,7.0,4.0,-74.0
+Colombia,2005,Both sexes,6.2,4.0,-74.0
+Colombia,2006,Both sexes,6.5,4.0,-74.0
+Colombia,2007,Both sexes,6.2,4.0,-74.0
+Colombia,2008,Both sexes,6.2,4.0,-74.0
+Colombia,2009,Both sexes,6.2,4.0,-74.0
+Colombia,2010,Both sexes,5.6,4.0,-74.0
+Colombia,2011,Both sexes,5.2,4.0,-74.0
+Colombia,2012,Both sexes,5.5,4.0,-74.0
+Colombia,2013,Both sexes,5.3,4.0,-74.0
+Colombia,2014,Both sexes,5.6,4.0,-74.0
+Colombia,2015,Both sexes,5.9,4.0,-74.0
+Costa Rica,1985,Both sexes,5.8,10.0,-84.0
+Costa Rica,1986,Both sexes,7.5,10.0,-84.0
+Costa Rica,1987,Both sexes,7.1,10.0,-84.0
+Costa Rica,1988,Both sexes,7.4,10.0,-84.0
+Costa Rica,1989,Both sexes,7.1,10.0,-84.0
+Costa Rica,1990,Both sexes,7.8,10.0,-84.0
+Costa Rica,1991,Both sexes,5.1,10.0,-84.0
+Costa Rica,1992,Both sexes,6.0,10.0,-84.0
+Costa Rica,1993,Both sexes,8.2,10.0,-84.0
+Costa Rica,1994,Both sexes,6.7,10.0,-84.0
+Costa Rica,1995,Both sexes,6.6,10.0,-84.0
+Costa Rica,1996,Both sexes,7.9,10.0,-84.0
+Costa Rica,1997,Both sexes,6.7,10.0,-84.0
+Costa Rica,1998,Both sexes,7.7,10.0,-84.0
+Costa Rica,1999,Both sexes,7.1,10.0,-84.0
+Costa Rica,2000,Both sexes,7.4,10.0,-84.0
+Costa Rica,2001,Both sexes,6.3,10.0,-84.0
+Costa Rica,2002,Both sexes,8.0,10.0,-84.0
+Costa Rica,2003,Both sexes,9.7,10.0,-84.0
+Costa Rica,2004,Both sexes,8.4,10.0,-84.0
+Costa Rica,2005,Both sexes,6.6,10.0,-84.0
+Costa Rica,2006,Both sexes,8.4,10.0,-84.0
+Costa Rica,2007,Both sexes,6.3,10.0,-84.0
+Costa Rica,2008,Both sexes,6.0,10.0,-84.0
+Costa Rica,2009,Both sexes,6.4,10.0,-84.0
+Costa Rica,2010,Both sexes,7.0,10.0,-84.0
+Costa Rica,2011,Both sexes,7.5,10.0,-84.0
+Costa Rica,2012,Both sexes,6.7,10.0,-84.0
+Costa Rica,2013,Both sexes,7.4,10.0,-84.0
+Costa Rica,2014,Both sexes,5.9,10.0,-84.0
+Croatia,1995,Both sexes,25.5,45.17,15.5
+Croatia,1996,Both sexes,27.9,45.17,15.5
+Croatia,1997,Both sexes,26.1,45.17,15.5
+Croatia,1998,Both sexes,28.7,45.17,15.5
+Croatia,1999,Both sexes,27.3,45.17,15.5
+Croatia,2000,Both sexes,26.9,45.17,15.5
+Croatia,2001,Both sexes,24.0,45.17,15.5
+Croatia,2002,Both sexes,25.3,45.17,15.5
+Croatia,2003,Both sexes,23.5,45.17,15.5
+Croatia,2004,Both sexes,25.2,45.17,15.5
+Croatia,2005,Both sexes,22.5,45.17,15.5
+Croatia,2006,Both sexes,20.7,45.17,15.5
+Croatia,2007,Both sexes,20.3,45.17,15.5
+Croatia,2008,Both sexes,22.1,45.17,15.5
+Croatia,2009,Both sexes,21.2,45.17,15.5
+Croatia,2010,Both sexes,20.2,45.17,15.5
+Croatia,2011,Both sexes,18.4,45.17,15.5
+Croatia,2012,Both sexes,19.9,45.17,15.5
+Croatia,2013,Both sexes,17.5,45.17,15.5
+Croatia,2014,Both sexes,18.5,45.17,15.5
+Croatia,2015,Both sexes,19.1,45.17,15.5
+Croatia,2016,Both sexes,21.4,45.17,15.5
+Cuba,1992,Both sexes,30.8,22.0,-80.0
+Cuba,1993,Both sexes,32.7,22.0,-80.0
+Cuba,1994,Both sexes,30.3,22.0,-80.0
+Cuba,1995,Both sexes,29.4,22.0,-80.0
+Cuba,1996,Both sexes,26.4,22.0,-80.0
+Cuba,1997,Both sexes,26.4,22.0,-80.0
+Cuba,1998,Both sexes,27.2,22.0,-80.0
+Cuba,1999,Both sexes,25.5,22.0,-80.0
+Cuba,2000,Both sexes,22.7,22.0,-80.0
+Cuba,2001,Both sexes,20.4,22.0,-80.0
+Cuba,2002,Both sexes,20.0,22.0,-80.0
+Cuba,2003,Both sexes,18.4,22.0,-80.0
+Cuba,2004,Both sexes,18.0,22.0,-80.0
+Cuba,2005,Both sexes,17.2,22.0,-80.0
+Cuba,2006,Both sexes,16.9,22.0,-80.0
+Cuba,2007,Both sexes,15.7,22.0,-80.0
+Cuba,2008,Both sexes,15.9,22.0,-80.0
+Cuba,2009,Both sexes,16.8,22.0,-80.0
+Cuba,2010,Both sexes,16.8,22.0,-80.0
+Cuba,2011,Both sexes,17.3,22.0,-80.0
+Cuba,2012,Both sexes,17.0,22.0,-80.0
+Cuba,2013,Both sexes,15.9,22.0,-80.0
+Cuba,2014,Both sexes,15.4,22.0,-80.0
+Cuba,2015,Both sexes,16.2,22.0,-80.0
+Cyprus,1999,Both sexes,0.1,35.0,33.0
+Cyprus,2000,Both sexes,0.7,35.0,33.0
+Cyprus,2004,Both sexes,0.8,35.0,33.0
+Cyprus,2005,Both sexes,2.1,35.0,33.0
+Cyprus,2006,Both sexes,2.3,35.0,33.0
+Cyprus,2007,Both sexes,3.0,35.0,33.0
+Cyprus,2008,Both sexes,4.9,35.0,33.0
+Cyprus,2009,Both sexes,4.6,35.0,33.0
+Cyprus,2010,Both sexes,4.9,35.0,33.0
+Cyprus,2011,Both sexes,3.6,35.0,33.0
+Cyprus,2012,Both sexes,3.6,35.0,33.0
+Cyprus,2013,Both sexes,5.4,35.0,33.0
+Cyprus,2014,Both sexes,4.8,35.0,33.0
+Cyprus,2015,Both sexes,4.1,35.0,33.0
+Cyprus,2016,Both sexes,4.7,35.0,33.0
+Czech Republic,1990,Both sexes,26.2,49.75,15.5
+Czech Republic,1991,Both sexes,24.3,49.75,15.5
+Czech Republic,1992,Both sexes,25.3,49.75,15.5
+Czech Republic,1993,Both sexes,24.8,49.75,15.5
+Czech Republic,1994,Both sexes,24.4,49.75,15.5
+Czech Republic,1995,Both sexes,22.0,49.75,15.5
+Czech Republic,1996,Both sexes,20.3,49.75,15.5
+Czech Republic,1997,Both sexes,19.5,49.75,15.5
+Czech Republic,1998,Both sexes,18.9,49.75,15.5
+Czech Republic,1999,Both sexes,19.7,49.75,15.5
+Czech Republic,2000,Both sexes,18.9,49.75,15.5
+Czech Republic,2001,Both sexes,18.4,49.75,15.5
+Czech Republic,2002,Both sexes,17.7,49.75,15.5
+Czech Republic,2003,Both sexes,19.6,49.75,15.5
+Czech Republic,2004,Both sexes,16.9,49.75,15.5
+Czech Republic,2005,Both sexes,16.1,49.75,15.5
+Czech Republic,2006,Both sexes,14.9,49.75,15.5
+Czech Republic,2007,Both sexes,14.2,49.75,15.5
+Czech Republic,2008,Both sexes,14.6,49.75,15.5
+Czech Republic,2009,Both sexes,15.0,49.75,15.5
+Czech Republic,2010,Both sexes,14.6,49.75,15.5
+Czech Republic,2011,Both sexes,15.5,49.75,15.5
+Czech Republic,2012,Both sexes,16.4,49.75,15.5
+Czech Republic,2013,Both sexes,15.5,49.75,15.5
+Czech Republic,2014,Both sexes,14.6,49.75,15.5
+Czech Republic,2015,Both sexes,14.2,49.75,15.5
+Czech Republic,2016,Both sexes,16.2,49.75,15.5
+Denmark,1994,Both sexes,21.1,56.0,10.0
+Denmark,1995,Both sexes,19.9,56.0,10.0
+Denmark,1996,Both sexes,19.1,56.0,10.0
+Denmark,1997,Both sexes,18.2,56.0,10.0
+Denmark,1998,Both sexes,15.7,56.0,10.0
+Denmark,1999,Both sexes,15.3,56.0,10.0
+Denmark,2000,Both sexes,15.1,56.0,10.0
+Denmark,2001,Both sexes,15.5,56.0,10.0
+Denmark,2002,Both sexes,14.7,56.0,10.0
+Denmark,2003,Both sexes,13.1,56.0,10.0
+Denmark,2004,Both sexes,13.5,56.0,10.0
+Denmark,2005,Both sexes,13.7,56.0,10.0
+Denmark,2006,Both sexes,13.5,56.0,10.0
+Denmark,2007,Both sexes,11.7,56.0,10.0
+Denmark,2008,Both sexes,11.9,56.0,10.0
+Denmark,2009,Both sexes,12.1,56.0,10.0
+Denmark,2010,Both sexes,10.8,56.0,10.0
+Denmark,2011,Both sexes,10.5,56.0,10.0
+Denmark,2012,Both sexes,11.9,56.0,10.0
+Denmark,2013,Both sexes,11.2,56.0,10.0
+Denmark,2014,Both sexes,11.5,56.0,10.0
+Denmark,2015,Both sexes,10.1,56.0,10.0
+Dominica,1985,Both sexes,0.0,15.42,-61.33
+Ecuador,1985,Both sexes,6.9,-2.0,-77.5
+Ecuador,1986,Both sexes,6.4,-2.0,-77.5
+Ecuador,1987,Both sexes,5.2,-2.0,-77.5
+Ecuador,1988,Both sexes,6.3,-2.0,-77.5
+Ecuador,1989,Both sexes,5.9,-2.0,-77.5
+Ecuador,1990,Both sexes,5.0,-2.0,-77.5
+Ecuador,1991,Both sexes,5.6,-2.0,-77.5
+Ecuador,1992,Both sexes,6.3,-2.0,-77.5
+Ecuador,1993,Both sexes,5.9,-2.0,-77.5
+Ecuador,1994,Both sexes,5.6,-2.0,-77.5
+Ecuador,1995,Both sexes,5.7,-2.0,-77.5
+Ecuador,1996,Both sexes,6.4,-2.0,-77.5
+Ecuador,1997,Both sexes,5.6,-2.0,-77.5
+Ecuador,1998,Both sexes,5.2,-2.0,-77.5
+Ecuador,1999,Both sexes,6.0,-2.0,-77.5
+Ecuador,2000,Both sexes,4.8,-2.0,-77.5
+Ecuador,2001,Both sexes,5.6,-2.0,-77.5
+Ecuador,2002,Both sexes,5.1,-2.0,-77.5
+Ecuador,2003,Both sexes,5.9,-2.0,-77.5
+Ecuador,2004,Both sexes,7.0,-2.0,-77.5
+Ecuador,2005,Both sexes,8.1,-2.0,-77.5
+Ecuador,2006,Both sexes,7.8,-2.0,-77.5
+Ecuador,2007,Both sexes,8.0,-2.0,-77.5
+Ecuador,2008,Both sexes,7.9,-2.0,-77.5
+Ecuador,2009,Both sexes,7.9,-2.0,-77.5
+Ecuador,2010,Both sexes,6.8,-2.0,-77.5
+Ecuador,2011,Both sexes,6.8,-2.0,-77.5
+Ecuador,2012,Both sexes,7.1,-2.0,-77.5
+Ecuador,2013,Both sexes,5.2,-2.0,-77.5
+Ecuador,2014,Both sexes,5.5,-2.0,-77.5
+Ecuador,2015,Both sexes,8.1,-2.0,-77.5
+El Salvador,1990,Both sexes,15.4,13.83,-88.92
+El Salvador,1991,Both sexes,14.3,13.83,-88.92
+El Salvador,1992,Both sexes,10.1,13.83,-88.92
+El Salvador,1993,Both sexes,10.3,13.83,-88.92
+El Salvador,1995,Both sexes,13.3,13.83,-88.92
+El Salvador,1996,Both sexes,12.1,13.83,-88.92
+El Salvador,1997,Both sexes,11.7,13.83,-88.92
+El Salvador,1998,Both sexes,10.2,13.83,-88.92
+El Salvador,1999,Both sexes,10.7,13.83,-88.92
+El Salvador,2000,Both sexes,9.2,13.83,-88.92
+El Salvador,2001,Both sexes,10.8,13.83,-88.92
+El Salvador,2002,Both sexes,9.4,13.83,-88.92
+El Salvador,2003,Both sexes,10.7,13.83,-88.92
+El Salvador,2004,Both sexes,9.3,13.83,-88.92
+El Salvador,2005,Both sexes,9.6,13.83,-88.92
+El Salvador,2006,Both sexes,8.3,13.83,-88.92
+El Salvador,2007,Both sexes,10.6,13.83,-88.92
+El Salvador,2008,Both sexes,10.5,13.83,-88.92
+El Salvador,2009,Both sexes,10.3,13.83,-88.92
+El Salvador,2010,Both sexes,8.2,13.83,-88.92
+El Salvador,2011,Both sexes,9.6,13.83,-88.92
+El Salvador,2012,Both sexes,10.3,13.83,-88.92
+El Salvador,2013,Both sexes,9.7,13.83,-88.92
+El Salvador,2014,Both sexes,8.5,13.83,-88.92
+Estonia,1995,Both sexes,45.3,59.0,26.0
+Estonia,1996,Both sexes,44.1,59.0,26.0
+Estonia,1997,Both sexes,41.8,59.0,26.0
+Estonia,1998,Both sexes,35.6,59.0,26.0
+Estonia,1999,Both sexes,40.5,59.0,26.0
+Estonia,2000,Both sexes,30.4,59.0,26.0
+Estonia,2001,Both sexes,31.0,59.0,26.0
+Estonia,2002,Both sexes,29.9,59.0,26.0
+Estonia,2003,Both sexes,28.2,59.0,26.0
+Estonia,2004,Both sexes,25.0,59.0,26.0
+Estonia,2005,Both sexes,21.4,59.0,26.0
+Estonia,2006,Both sexes,20.2,59.0,26.0
+Estonia,2007,Both sexes,22.1,59.0,26.0
+Estonia,2008,Both sexes,20.4,59.0,26.0
+Estonia,2009,Both sexes,20.7,59.0,26.0
+Estonia,2010,Both sexes,19.1,59.0,26.0
+Estonia,2011,Both sexes,19.1,59.0,26.0
+Estonia,2012,Both sexes,20.1,59.0,26.0
+Estonia,2013,Both sexes,19.3,59.0,26.0
+Estonia,2014,Both sexes,21.6,59.0,26.0
+Estonia,2015,Both sexes,17.1,59.0,26.0
+Fiji,2001,Both sexes,4.6,-18.0,175.0
+Fiji,2002,Both sexes,9.2,-18.0,175.0
+Fiji,2003,Both sexes,1.3,-18.0,175.0
+Fiji,2004,Both sexes,7.5,-18.0,175.0
+Fiji,2005,Both sexes,4.4,-18.0,175.0
+Fiji,2006,Both sexes,2.6,-18.0,175.0
+Fiji,2007,Both sexes,1.7,-18.0,175.0
+Fiji,2008,Both sexes,4.0,-18.0,175.0
+Fiji,2009,Both sexes,4.3,-18.0,175.0
+Fiji,2011,Both sexes,8.9,-18.0,175.0
+Fiji,2012,Both sexes,7.6,-18.0,175.0
+Finland,1987,Both sexes,28.9,64.0,26.0
+Finland,1988,Both sexes,29.5,64.0,26.0
+Finland,1989,Both sexes,31.1,64.0,26.0
+Finland,1990,Both sexes,33.0,64.0,26.0
+Finland,1991,Both sexes,31.5,64.0,26.0
+Finland,1992,Both sexes,29.2,64.0,26.0
+Finland,1993,Both sexes,27.8,64.0,26.0
+Finland,1994,Both sexes,27.5,64.0,26.0
+Finland,1995,Both sexes,27.1,64.0,26.0
+Finland,1996,Both sexes,24.1,64.0,26.0
+Finland,1997,Both sexes,25.9,64.0,26.0
+Finland,1998,Both sexes,25.1,64.0,26.0
+Finland,1999,Both sexes,23.6,64.0,26.0
+Finland,2000,Both sexes,22.1,64.0,26.0
+Finland,2001,Both sexes,22.3,64.0,26.0
+Finland,2002,Both sexes,21.3,64.0,26.0
+Finland,2003,Both sexes,20.3,64.0,26.0
+Finland,2004,Both sexes,20.3,64.0,26.0
+Finland,2005,Both sexes,19.2,64.0,26.0
+Finland,2006,Both sexes,19.5,64.0,26.0
+Finland,2007,Both sexes,18.6,64.0,26.0
+Finland,2008,Both sexes,18.4,64.0,26.0
+Finland,2009,Both sexes,19.0,64.0,26.0
+Finland,2010,Both sexes,17.9,64.0,26.0
+Finland,2011,Both sexes,17.0,64.0,26.0
+Finland,2012,Both sexes,15.6,64.0,26.0
+Finland,2013,Both sexes,16.4,64.0,26.0
+Finland,2014,Both sexes,14.8,64.0,26.0
+Finland,2015,Both sexes,13.4,64.0,26.0
+France,1985,Both sexes,29.1,46.0,2.0
+France,1986,Both sexes,29.3,46.0,2.0
+France,1987,Both sexes,27.6,46.0,2.0
+France,1988,Both sexes,26.1,46.0,2.0
+France,1989,Both sexes,26.0,46.0,2.0
+France,1990,Both sexes,25.2,46.0,2.0
+France,1991,Both sexes,24.8,46.0,2.0
+France,1992,Both sexes,25.1,46.0,2.0
+France,1993,Both sexes,26.1,46.0,2.0
+France,1994,Both sexes,25.0,46.0,2.0
+France,1995,Both sexes,24.4,46.0,2.0
+France,1996,Both sexes,22.6,46.0,2.0
+France,1997,Both sexes,22.2,46.0,2.0
+France,1998,Both sexes,21.1,46.0,2.0
+France,1999,Both sexes,20.5,46.0,2.0
+France,2000,Both sexes,21.4,46.0,2.0
+France,2001,Both sexes,20.0,46.0,2.0
+France,2002,Both sexes,19.9,46.0,2.0
+France,2003,Both sexes,20.1,46.0,2.0
+France,2004,Both sexes,19.4,46.0,2.0
+France,2005,Both sexes,19.3,46.0,2.0
+France,2006,Both sexes,18.4,46.0,2.0
+France,2007,Both sexes,17.8,46.0,2.0
+France,2008,Both sexes,18.0,46.0,2.0
+France,2009,Both sexes,18.0,46.0,2.0
+France,2010,Both sexes,17.6,46.0,2.0
+France,2011,Both sexes,17.6,46.0,2.0
+France,2012,Both sexes,16.6,46.0,2.0
+France,2013,Both sexes,16.0,46.0,2.0
+France,2014,Both sexes,15.0,46.0,2.0
+Georgia,1990,Both sexes,5.4,42.0,43.5
+Georgia,1991,Both sexes,4.4,42.0,43.5
+Georgia,1992,Both sexes,5.0,42.0,43.5
+Georgia,1994,Both sexes,3.1,42.0,43.5
+Georgia,1995,Both sexes,3.4,42.0,43.5
+Georgia,1996,Both sexes,5.0,42.0,43.5
+Georgia,1997,Both sexes,5.1,42.0,43.5
+Georgia,1998,Both sexes,4.1,42.0,43.5
+Georgia,1999,Both sexes,5.7,42.0,43.5
+Georgia,2000,Both sexes,3.9,42.0,43.5
+Georgia,2001,Both sexes,2.9,42.0,43.5
+Georgia,2004,Both sexes,5.5,42.0,43.5
+Georgia,2005,Both sexes,2.4,42.0,43.5
+Georgia,2006,Both sexes,2.0,42.0,43.5
+Georgia,2007,Both sexes,3.0,42.0,43.5
+Georgia,2009,Both sexes,5.4,42.0,43.5
+Georgia,2010,Both sexes,2.9,42.0,43.5
+Georgia,2011,Both sexes,3.0,42.0,43.5
+Georgia,2012,Both sexes,2.9,42.0,43.5
+Georgia,2013,Both sexes,4.6,42.0,43.5
+Georgia,2014,Both sexes,6.2,42.0,43.5
+Georgia,2015,Both sexes,7.1,42.0,43.5
+Germany,1990,Both sexes,21.6,51.0,9.0
+Germany,1991,Both sexes,21.5,51.0,9.0
+Germany,1992,Both sexes,20.8,51.0,9.0
+Germany,1993,Both sexes,19.6,51.0,9.0
+Germany,1994,Both sexes,19.2,51.0,9.0
+Germany,1995,Both sexes,19.5,51.0,9.0
+Germany,1996,Both sexes,18.0,51.0,9.0
+Germany,1997,Both sexes,17.6,51.0,9.0
+Germany,1998,Both sexes,16.7,51.0,9.0
+Germany,1999,Both sexes,15.8,51.0,9.0
+Germany,2000,Both sexes,15.5,51.0,9.0
+Germany,2001,Both sexes,15.5,51.0,9.0
+Germany,2002,Both sexes,15.3,51.0,9.0
+Germany,2003,Both sexes,15.1,51.0,9.0
+Germany,2004,Both sexes,14.4,51.0,9.0
+Germany,2005,Both sexes,13.5,51.0,9.0
+Germany,2006,Both sexes,12.7,51.0,9.0
+Germany,2007,Both sexes,12.2,51.0,9.0
+Germany,2008,Both sexes,12.1,51.0,9.0
+Germany,2009,Both sexes,12.1,51.0,9.0
+Germany,2010,Both sexes,12.7,51.0,9.0
+Germany,2011,Both sexes,12.7,51.0,9.0
+Germany,2012,Both sexes,12.4,51.0,9.0
+Germany,2013,Both sexes,12.8,51.0,9.0
+Germany,2014,Both sexes,12.8,51.0,9.0
+Germany,2015,Both sexes,12.5,51.0,9.0
+Greece,1985,Both sexes,4.8,39.0,22.0
+Greece,1986,Both sexes,5.1,39.0,22.0
+Greece,1987,Both sexes,5.3,39.0,22.0
+Greece,1988,Both sexes,5.0,39.0,22.0
+Greece,1989,Both sexes,4.5,39.0,22.0
+Greece,1990,Both sexes,4.3,39.0,22.0
+Greece,1991,Both sexes,4.5,39.0,22.0
+Greece,1992,Both sexes,4.1,39.0,22.0
+Greece,1993,Both sexes,4.4,39.0,22.0
+Greece,1994,Both sexes,3.9,39.0,22.0
+Greece,1995,Both sexes,4.1,39.0,22.0
+Greece,1996,Both sexes,3.8,39.0,22.0
+Greece,1997,Both sexes,4.0,39.0,22.0
+Greece,1998,Both sexes,4.0,39.0,22.0
+Greece,1999,Both sexes,3.8,39.0,22.0
+Greece,2000,Both sexes,3.7,39.0,22.0
+Greece,2001,Both sexes,3.2,39.0,22.0
+Greece,2002,Both sexes,3.2,39.0,22.0
+Greece,2003,Both sexes,3.4,39.0,22.0
+Greece,2004,Both sexes,3.4,39.0,22.0
+Greece,2005,Both sexes,3.9,39.0,22.0
+Greece,2006,Both sexes,3.8,39.0,22.0
+Greece,2007,Both sexes,2.8,39.0,22.0
+Greece,2008,Both sexes,3.4,39.0,22.0
+Greece,2009,Both sexes,3.4,39.0,22.0
+Greece,2010,Both sexes,3.3,39.0,22.0
+Greece,2011,Both sexes,4.1,39.0,22.0
+Greece,2012,Both sexes,4.4,39.0,22.0
+Greece,2013,Both sexes,4.6,39.0,22.0
+Greece,2014,Both sexes,5.0,39.0,22.0
+Greece,2015,Both sexes,4.7,39.0,22.0
+Grenada,1985,Both sexes,2.1,12.12,-61.68
+Grenada,1988,Both sexes,3.9,12.12,-61.68
+Grenada,1989,Both sexes,5.4,12.12,-61.68
+Grenada,1990,Both sexes,2.1,12.12,-61.68
+Grenada,1991,Both sexes,0.0,12.12,-61.68
+Grenada,1992,Both sexes,0.0,12.12,-61.68
+Grenada,1993,Both sexes,2.9,12.12,-61.68
+Grenada,1994,Both sexes,5.1,12.12,-61.68
+Grenada,1995,Both sexes,4.3,12.12,-61.68
+Grenada,1996,Both sexes,1.0,12.12,-61.68
+Grenada,2001,Both sexes,0.0,12.12,-61.68
+Grenada,2002,Both sexes,0.0,12.12,-61.68
+Grenada,2003,Both sexes,5.8,12.12,-61.68
+Grenada,2004,Both sexes,1.1,12.12,-61.68
+Grenada,2005,Both sexes,13.4,12.12,-61.68
+Grenada,2006,Both sexes,0.8,12.12,-61.68
+Grenada,2007,Both sexes,4.0,12.12,-61.68
+Grenada,2008,Both sexes,0.0,12.12,-61.68
+Grenada,2009,Both sexes,0.0,12.12,-61.68
+Grenada,2010,Both sexes,0.0,12.12,-61.68
+Grenada,2011,Both sexes,1.7,12.12,-61.68
+Grenada,2012,Both sexes,1.5,12.12,-61.68
+Grenada,2013,Both sexes,0.0,12.12,-61.68
+Grenada,2014,Both sexes,0.0,12.12,-61.68
+Grenada,2015,Both sexes,0.0,12.12,-61.68
+Grenada,2016,Both sexes,0.0,12.12,-61.68
+Guatemala,1986,Both sexes,3.6,15.5,-90.25
+Guatemala,1987,Both sexes,4.8,15.5,-90.25
+Guatemala,1988,Both sexes,3.9,15.5,-90.25
+Guatemala,1989,Both sexes,2.9,15.5,-90.25
+Guatemala,1990,Both sexes,2.8,15.5,-90.25
+Guatemala,1991,Both sexes,2.8,15.5,-90.25
+Guatemala,1992,Both sexes,3.2,15.5,-90.25
+Guatemala,1993,Both sexes,2.6,15.5,-90.25
+Guatemala,1994,Both sexes,2.2,15.5,-90.25
+Guatemala,1995,Both sexes,2.8,15.5,-90.25
+Guatemala,1996,Both sexes,2.5,15.5,-90.25
+Guatemala,1997,Both sexes,2.2,15.5,-90.25
+Guatemala,1998,Both sexes,3.1,15.5,-90.25
+Guatemala,1999,Both sexes,3.0,15.5,-90.25
+Guatemala,2000,Both sexes,2.3,15.5,-90.25
+Guatemala,2001,Both sexes,2.5,15.5,-90.25
+Guatemala,2002,Both sexes,3.4,15.5,-90.25
+Guatemala,2003,Both sexes,3.1,15.5,-90.25
+Guatemala,2004,Both sexes,2.5,15.5,-90.25
+Guatemala,2005,Both sexes,2.7,15.5,-90.25
+Guatemala,2006,Both sexes,3.5,15.5,-90.25
+Guatemala,2007,Both sexes,3.4,15.5,-90.25
+Guatemala,2008,Both sexes,4.6,15.5,-90.25
+Guatemala,2009,Both sexes,4.8,15.5,-90.25
+Guatemala,2010,Both sexes,3.0,15.5,-90.25
+Guatemala,2011,Both sexes,2.9,15.5,-90.25
+Guatemala,2012,Both sexes,3.5,15.5,-90.25
+Guatemala,2013,Both sexes,3.4,15.5,-90.25
+Guatemala,2014,Both sexes,3.8,15.5,-90.25
+Guatemala,2015,Both sexes,3.7,15.5,-90.25
+Guyana,1988,Both sexes,7.7,5.0,-59.0
+Guyana,1989,Both sexes,15.4,5.0,-59.0
+Guyana,1990,Both sexes,14.8,5.0,-59.0
+Guyana,1991,Both sexes,19.4,5.0,-59.0
+Guyana,1992,Both sexes,15.2,5.0,-59.0
+Guyana,1993,Both sexes,9.7,5.0,-59.0
+Guyana,1994,Both sexes,13.5,5.0,-59.0
+Guyana,1995,Both sexes,17.4,5.0,-59.0
+Guyana,1996,Both sexes,10.7,5.0,-59.0
+Guyana,1997,Both sexes,6.9,5.0,-59.0
+Guyana,1998,Both sexes,5.4,5.0,-59.0
+Guyana,1999,Both sexes,26.1,5.0,-59.0
+Guyana,2001,Both sexes,31.7,5.0,-59.0
+Guyana,2002,Both sexes,26.0,5.0,-59.0
+Guyana,2003,Both sexes,31.9,5.0,-59.0
+Guyana,2004,Both sexes,33.3,5.0,-59.0
+Guyana,2005,Both sexes,27.8,5.0,-59.0
+Guyana,2006,Both sexes,32.9,5.0,-59.0
+Guyana,2007,Both sexes,31.1,5.0,-59.0
+Guyana,2008,Both sexes,29.5,5.0,-59.0
+Guyana,2009,Both sexes,25.1,5.0,-59.0
+Guyana,2010,Both sexes,33.6,5.0,-59.0
+Guyana,2011,Both sexes,29.1,5.0,-59.0
+Guyana,2012,Both sexes,30.7,5.0,-59.0
+Guyana,2013,Both sexes,29.7,5.0,-59.0
+Hungary,1991,Both sexes,47.9,47.0,20.0
+Hungary,1992,Both sexes,47.5,47.0,20.0
+Hungary,1993,Both sexes,44.9,47.0,20.0
+Hungary,1994,Both sexes,44.7,47.0,20.0
+Hungary,1995,Both sexes,41.1,47.0,20.0
+Hungary,1996,Both sexes,40.2,47.0,20.0
+Hungary,1997,Both sexes,39.2,47.0,20.0
+Hungary,1998,Both sexes,36.4,47.0,20.0
+Hungary,1999,Both sexes,40.3,47.0,20.0
+Hungary,2000,Both sexes,38.7,47.0,20.0
+Hungary,2001,Both sexes,34.1,47.0,20.0
+Hungary,2002,Both sexes,31.9,47.0,20.0
+Hungary,2003,Both sexes,31.0,47.0,20.0
+Hungary,2004,Both sexes,30.8,47.0,20.0
+Hungary,2005,Both sexes,29.3,47.0,20.0
+Hungary,2006,Both sexes,26.1,47.0,20.0
+Hungary,2007,Both sexes,27.3,47.0,20.0
+Hungary,2008,Both sexes,27.6,47.0,20.0
+Hungary,2009,Both sexes,25.9,47.0,20.0
+Hungary,2010,Both sexes,26.8,47.0,20.0
+Hungary,2011,Both sexes,25.0,47.0,20.0
+Hungary,2012,Both sexes,25.5,47.0,20.0
+Hungary,2013,Both sexes,22.2,47.0,20.0
+Hungary,2014,Both sexes,20.4,47.0,20.0
+Hungary,2015,Both sexes,21.4,47.0,20.0
+Hungary,2016,Both sexes,24.1,47.0,20.0
+Iceland,1985,Both sexes,14.3,65.0,-18.0
+Iceland,1986,Both sexes,17.9,65.0,-18.0
+Iceland,1987,Both sexes,17.5,65.0,-18.0
+Iceland,1988,Both sexes,14.0,65.0,-18.0
+Iceland,1989,Both sexes,9.2,65.0,-18.0
+Iceland,1990,Both sexes,15.0,65.0,-18.0
+Iceland,1991,Both sexes,16.6,65.0,-18.0
+Iceland,1992,Both sexes,10.2,65.0,-18.0
+Iceland,1993,Both sexes,9.1,65.0,-18.0
+Iceland,1994,Both sexes,10.5,65.0,-18.0
+Iceland,1995,Both sexes,10.8,65.0,-18.0
+Iceland,1996,Both sexes,14.8,65.0,-18.0
+Iceland,1997,Both sexes,13.7,65.0,-18.0
+Iceland,1998,Both sexes,11.8,65.0,-18.0
+Iceland,1999,Both sexes,10.7,65.0,-18.0
+Iceland,2000,Both sexes,17.3,65.0,-18.0
+Iceland,2001,Both sexes,13.6,65.0,-18.0
+Iceland,2002,Both sexes,10.9,65.0,-18.0
+Iceland,2003,Both sexes,8.4,65.0,-18.0
+Iceland,2004,Both sexes,14.1,65.0,-18.0
+Iceland,2005,Both sexes,9.6,65.0,-18.0
+Iceland,2006,Both sexes,8.9,65.0,-18.0
+Iceland,2007,Both sexes,13.6,65.0,-18.0
+Iceland,2008,Both sexes,11.3,65.0,-18.0
+Iceland,2009,Both sexes,10.3,65.0,-18.0
+Iceland,2010,Both sexes,15.4,65.0,-18.0
+Iceland,2011,Both sexes,7.7,65.0,-18.0
+Iceland,2012,Both sexes,12.1,65.0,-18.0
+Iceland,2013,Both sexes,18.4,65.0,-18.0
+Iceland,2014,Both sexes,16.5,65.0,-18.0
+Iceland,2015,Both sexes,11.7,65.0,-18.0
+Iceland,2016,Both sexes,13.8,65.0,-18.0
+Ireland,1985,Both sexes,8.5,53.0,-8.0
+Ireland,1986,Both sexes,8.7,53.0,-8.0
+Ireland,1987,Both sexes,8.0,53.0,-8.0
+Ireland,1988,Both sexes,9.4,53.0,-8.0
+Ireland,1989,Both sexes,9.2,53.0,-8.0
+Ireland,1990,Both sexes,10.5,53.0,-8.0
+Ireland,1991,Both sexes,10.5,53.0,-8.0
+Ireland,1992,Both sexes,11.5,53.0,-8.0
+Ireland,1993,Both sexes,9.8,53.0,-8.0
+Ireland,1994,Both sexes,11.9,53.0,-8.0
+Ireland,1995,Both sexes,12.0,53.0,-8.0
+Ireland,1996,Both sexes,12.1,53.0,-8.0
+Ireland,1997,Both sexes,13.0,53.0,-8.0
+Ireland,1998,Both sexes,13.5,53.0,-8.0
+Ireland,1999,Both sexes,11.8,53.0,-8.0
+Ireland,2000,Both sexes,11.9,53.0,-8.0
+Ireland,2001,Both sexes,12.4,53.0,-8.0
+Ireland,2002,Both sexes,11.3,53.0,-8.0
+Ireland,2003,Both sexes,11.2,53.0,-8.0
+Ireland,2004,Both sexes,10.8,53.0,-8.0
+Ireland,2005,Both sexes,10.1,53.0,-8.0
+Ireland,2006,Both sexes,10.5,53.0,-8.0
+Ireland,2007,Both sexes,10.1,53.0,-8.0
+Ireland,2008,Both sexes,10.8,53.0,-8.0
+Ireland,2009,Both sexes,11.1,53.0,-8.0
+Ireland,2010,Both sexes,10.0,53.0,-8.0
+Ireland,2011,Both sexes,11.5,53.0,-8.0
+Ireland,2012,Both sexes,11.5,53.0,-8.0
+Ireland,2013,Both sexes,9.8,53.0,-8.0
+Ireland,2014,Both sexes,10.0,53.0,-8.0
+Israel,1985,Both sexes,9.3,31.5,34.75
+Israel,1986,Both sexes,10.9,31.5,34.75
+Israel,1987,Both sexes,11.1,31.5,34.75
+Israel,1988,Both sexes,10.3,31.5,34.75
+Israel,1989,Both sexes,14.2,31.5,34.75
+Israel,1990,Both sexes,10.2,31.5,34.75
+Israel,1991,Both sexes,11.6,31.5,34.75
+Israel,1992,Both sexes,10.9,31.5,34.75
+Israel,1993,Both sexes,11.4,31.5,34.75
+Israel,1994,Both sexes,12.5,31.5,34.75
+Israel,1995,Both sexes,10.6,31.5,34.75
+Israel,1996,Both sexes,9.2,31.5,34.75
+Israel,1997,Both sexes,10.5,31.5,34.75
+Israel,1998,Both sexes,8.3,31.5,34.75
+Israel,1999,Both sexes,8.5,31.5,34.75
+Israel,2000,Both sexes,9.0,31.5,34.75
+Israel,2001,Both sexes,9.0,31.5,34.75
+Israel,2002,Both sexes,7.8,31.5,34.75
+Israel,2003,Both sexes,8.1,31.5,34.75
+Israel,2004,Both sexes,8.2,31.5,34.75
+Israel,2005,Both sexes,8.6,31.5,34.75
+Israel,2006,Both sexes,6.7,31.5,34.75
+Israel,2007,Both sexes,6.1,31.5,34.75
+Israel,2008,Both sexes,7.3,31.5,34.75
+Israel,2009,Both sexes,6.7,31.5,34.75
+Israel,2010,Both sexes,8.3,31.5,34.75
+Israel,2011,Both sexes,7.3,31.5,34.75
+Israel,2012,Both sexes,7.0,31.5,34.75
+Israel,2013,Both sexes,6.2,31.5,34.75
+Israel,2014,Both sexes,5.9,31.5,34.75
+Israel,2015,Both sexes,5.5,31.5,34.75
+Italy,1985,Both sexes,11.1,42.83,12.83
+Italy,1986,Both sexes,10.9,42.83,12.83
+Italy,1987,Both sexes,10.5,42.83,12.83
+Italy,1988,Both sexes,10.2,42.83,12.83
+Italy,1989,Both sexes,9.7,42.83,12.83
+Italy,1990,Both sexes,10.2,42.83,12.83
+Italy,1991,Both sexes,9.7,42.83,12.83
+Italy,1992,Both sexes,9.6,42.83,12.83
+Italy,1993,Both sexes,10.1,42.83,12.83
+Italy,1994,Both sexes,9.9,42.83,12.83
+Italy,1995,Both sexes,9.8,42.83,12.83
+Italy,1996,Both sexes,9.6,42.83,12.83
+Italy,1997,Both sexes,9.8,42.83,12.83
+Italy,1998,Both sexes,9.5,42.83,12.83
+Italy,1999,Both sexes,8.3,42.83,12.83
+Italy,2000,Both sexes,8.3,42.83,12.83
+Italy,2001,Both sexes,8.0,42.83,12.83
+Italy,2002,Both sexes,7.9,42.83,12.83
+Italy,2003,Both sexes,7.9,42.83,12.83
+Italy,2004,Both sexes,7.6,42.83,12.83
+Italy,2005,Both sexes,6.9,42.83,12.83
+Italy,2006,Both sexes,6.8,42.83,12.83
+Italy,2007,Both sexes,6.8,42.83,12.83
+Italy,2008,Both sexes,6.8,42.83,12.83
+Italy,2009,Both sexes,6.8,42.83,12.83
+Italy,2010,Both sexes,6.7,42.83,12.83
+Italy,2011,Both sexes,7.2,42.83,12.83
+Italy,2012,Both sexes,7.1,42.83,12.83
+Italy,2013,Both sexes,7.1,42.83,12.83
+Italy,2014,Both sexes,6.8,42.83,12.83
+Italy,2015,Both sexes,6.5,42.83,12.83
+Jamaica,1985,Both sexes,0.8,18.17,-77.3
+Jamaica,1986,Both sexes,0.0,18.17,-77.3
+Jamaica,1987,Both sexes,0.6,18.17,-77.3
+Jamaica,1988,Both sexes,0.4,18.17,-77.3
+Jamaica,1989,Both sexes,0.0,18.17,-77.3
+Jamaica,1990,Both sexes,0.1,18.17,-77.3
+Jamaica,1991,Both sexes,0.1,18.17,-77.3
+Jamaica,2000,Both sexes,0.1,18.17,-77.3
+Jamaica,2001,Both sexes,0.2,18.17,-77.3
+Jamaica,2002,Both sexes,0.1,18.17,-77.3
+Jamaica,2003,Both sexes,0.1,18.17,-77.3
+Jamaica,2004,Both sexes,0.1,18.17,-77.3
+Jamaica,2005,Both sexes,2.2,18.17,-77.3
+Jamaica,2006,Both sexes,0.0,18.17,-77.3
+Jamaica,2009,Both sexes,1.8,18.17,-77.3
+Jamaica,2010,Both sexes,0.1,18.17,-77.3
+Jamaica,2011,Both sexes,2.3,18.17,-77.3
+Japan,1985,Both sexes,25.0,36.0,138.0
+Japan,1986,Both sexes,27.0,36.0,138.0
+Japan,1987,Both sexes,24.6,36.0,138.0
+Japan,1988,Both sexes,23.7,36.0,138.0
+Japan,1989,Both sexes,22.0,36.0,138.0
+Japan,1990,Both sexes,20.5,36.0,138.0
+Japan,1991,Both sexes,19.5,36.0,138.0
+Japan,1992,Both sexes,20.0,36.0,138.0
+Japan,1993,Both sexes,18.7,36.0,138.0
+Japan,1994,Both sexes,19.1,36.0,138.0
+Japan,1995,Both sexes,19.0,36.0,138.0
+Japan,1996,Both sexes,19.0,36.0,138.0
+Japan,1997,Both sexes,19.8,36.0,138.0
+Japan,1998,Both sexes,25.6,36.0,138.0
+Japan,1999,Both sexes,24.9,36.0,138.0
+Japan,2000,Both sexes,23.2,36.0,138.0
+Japan,2001,Both sexes,22.3,36.0,138.0
+Japan,2002,Both sexes,22.2,36.0,138.0
+Japan,2003,Both sexes,23.3,36.0,138.0
+Japan,2004,Both sexes,22.2,36.0,138.0
+Japan,2005,Both sexes,22.2,36.0,138.0
+Japan,2006,Both sexes,21.9,36.0,138.0
+Japan,2007,Both sexes,22.4,36.0,138.0
+Japan,2008,Both sexes,22.1,36.0,138.0
+Japan,2009,Both sexes,22.2,36.0,138.0
+Japan,2010,Both sexes,21.3,36.0,138.0
+Japan,2011,Both sexes,21.0,36.0,138.0
+Japan,2012,Both sexes,19.5,36.0,138.0
+Japan,2013,Both sexes,19.3,36.0,138.0
+Japan,2014,Both sexes,18.2,36.0,138.0
+Japan,2015,Both sexes,17.2,36.0,138.0
+Kazakhstan,1990,Both sexes,27.8,48.0,68.0
+Kazakhstan,1991,Both sexes,26.6,48.0,68.0
+Kazakhstan,1992,Both sexes,27.0,48.0,68.0
+Kazakhstan,1993,Both sexes,31.4,48.0,68.0
+Kazakhstan,1994,Both sexes,34.6,48.0,68.0
+Kazakhstan,1995,Both sexes,37.9,48.0,68.0
+Kazakhstan,1996,Both sexes,37.7,48.0,68.0
+Kazakhstan,1997,Both sexes,36.1,48.0,68.0
+Kazakhstan,1998,Both sexes,36.7,48.0,68.0
+Kazakhstan,1999,Both sexes,34.0,48.0,68.0
+Kazakhstan,2000,Both sexes,35.5,48.0,68.0
+Kazakhstan,2001,Both sexes,35.2,48.0,68.0
+Kazakhstan,2002,Both sexes,33.8,48.0,68.0
+Kazakhstan,2003,Both sexes,34.3,48.0,68.0
+Kazakhstan,2004,Both sexes,34.5,48.0,68.0
+Kazakhstan,2005,Both sexes,29.8,48.0,68.0
+Kazakhstan,2006,Both sexes,31.2,48.0,68.0
+Kazakhstan,2007,Both sexes,31.3,48.0,68.0
+Kazakhstan,2008,Both sexes,30.6,48.0,68.0
+Kazakhstan,2009,Both sexes,27.5,48.0,68.0
+Kazakhstan,2010,Both sexes,26.7,48.0,68.0
+Kazakhstan,2011,Both sexes,24.5,48.0,68.0
+Kazakhstan,2012,Both sexes,22.6,48.0,68.0
+Kazakhstan,2013,Both sexes,24.7,48.0,68.0
+Kazakhstan,2014,Both sexes,21.4,48.0,68.0
+Kazakhstan,2015,Both sexes,19.8,48.0,68.0
+Kiribati,1991,Both sexes,15.1,1.42,173.0
+Kiribati,1992,Both sexes,6.8,1.42,173.0
+Kiribati,1993,Both sexes,17.0,1.42,173.0
+Kiribati,1994,Both sexes,12.5,1.42,173.0
+Kiribati,1995,Both sexes,4.7,1.42,173.0
+Kiribati,1996,Both sexes,6.4,1.42,173.0
+Kiribati,1997,Both sexes,6.3,1.42,173.0
+Kiribati,1998,Both sexes,4.2,1.42,173.0
+Kiribati,1999,Both sexes,0.0,1.42,173.0
+Kiribati,2000,Both sexes,0.0,1.42,173.0
+Kiribati,2001,Both sexes,0.0,1.42,173.0
+Kuwait,1985,Both sexes,0.9,29.5,47.75
+Kuwait,1986,Both sexes,0.7,29.5,47.75
+Kuwait,1987,Both sexes,1.0,29.5,47.75
+Kuwait,1993,Both sexes,1.1,29.5,47.75
+Kuwait,1994,Both sexes,1.5,29.5,47.75
+Kuwait,1995,Both sexes,1.1,29.5,47.75
+Kuwait,1996,Both sexes,1.5,29.5,47.75
+Kuwait,1997,Both sexes,1.7,29.5,47.75
+Kuwait,1998,Both sexes,1.4,29.5,47.75
+Kuwait,1999,Both sexes,1.4,29.5,47.75
+Kuwait,2000,Both sexes,1.3,29.5,47.75
+Kuwait,2001,Both sexes,0.8,29.5,47.75
+Kuwait,2002,Both sexes,1.2,29.5,47.75
+Kuwait,2003,Both sexes,1.4,29.5,47.75
+Kuwait,2004,Both sexes,1.4,29.5,47.75
+Kuwait,2005,Both sexes,1.5,29.5,47.75
+Kuwait,2006,Both sexes,1.3,29.5,47.75
+Kuwait,2007,Both sexes,1.1,29.5,47.75
+Kuwait,2008,Both sexes,1.0,29.5,47.75
+Kuwait,2009,Both sexes,1.2,29.5,47.75
+Kuwait,2010,Both sexes,0.8,29.5,47.75
+Kuwait,2011,Both sexes,1.0,29.5,47.75
+Kuwait,2012,Both sexes,1.3,29.5,47.75
+Kuwait,2013,Both sexes,0.8,29.5,47.75
+Kuwait,2014,Both sexes,1.3,29.5,47.75
+Kyrgyzstan,1990,Both sexes,20.6,41.0,75.0
+Kyrgyzstan,1991,Both sexes,20.5,41.0,75.0
+Kyrgyzstan,1992,Both sexes,18.5,41.0,75.0
+Kyrgyzstan,1993,Both sexes,21.6,41.0,75.0
+Kyrgyzstan,1994,Both sexes,21.2,41.0,75.0
+Kyrgyzstan,1995,Both sexes,20.0,41.0,75.0
+Kyrgyzstan,1996,Both sexes,17.2,41.0,75.0
+Kyrgyzstan,1997,Both sexes,15.9,41.0,75.0
+Kyrgyzstan,1998,Both sexes,15.4,41.0,75.0
+Kyrgyzstan,1999,Both sexes,16.0,41.0,75.0
+Kyrgyzstan,2000,Both sexes,15.2,41.0,75.0
+Kyrgyzstan,2001,Both sexes,16.1,41.0,75.0
+Kyrgyzstan,2002,Both sexes,14.4,41.0,75.0
+Kyrgyzstan,2003,Both sexes,11.5,41.0,75.0
+Kyrgyzstan,2004,Both sexes,11.8,41.0,75.0
+Kyrgyzstan,2005,Both sexes,11.3,41.0,75.0
+Kyrgyzstan,2006,Both sexes,12.2,41.0,75.0
+Kyrgyzstan,2007,Both sexes,10.5,41.0,75.0
+Kyrgyzstan,2008,Both sexes,11.3,41.0,75.0
+Kyrgyzstan,2009,Both sexes,9.4,41.0,75.0
+Kyrgyzstan,2010,Both sexes,11.9,41.0,75.0
+Kyrgyzstan,2011,Both sexes,10.6,41.0,75.0
+Kyrgyzstan,2012,Both sexes,11.7,41.0,75.0
+Kyrgyzstan,2013,Both sexes,9.2,41.0,75.0
+Kyrgyzstan,2014,Both sexes,9.3,41.0,75.0
+Kyrgyzstan,2015,Both sexes,8.2,41.0,75.0
+Latvia,1995,Both sexes,45.5,57.0,25.0
+Latvia,1996,Both sexes,41.0,57.0,25.0
+Latvia,1997,Both sexes,41.0,57.0,25.0
+Latvia,1998,Both sexes,36.8,57.0,25.0
+Latvia,1999,Both sexes,35.0,57.0,25.0
+Latvia,2000,Both sexes,37.8,57.0,25.0
+Latvia,2001,Both sexes,32.0,57.0,25.0
+Latvia,2002,Both sexes,30.6,57.0,25.0
+Latvia,2003,Both sexes,30.1,57.0,25.0
+Latvia,2004,Both sexes,27.4,57.0,25.0
+Latvia,2005,Both sexes,26.0,57.0,25.0
+Latvia,2006,Both sexes,24.1,57.0,25.0
+Latvia,2007,Both sexes,24.6,57.0,25.0
+Latvia,2008,Both sexes,27.0,57.0,25.0
+Latvia,2009,Both sexes,25.6,57.0,25.0
+Latvia,2010,Both sexes,21.6,57.0,25.0
+Latvia,2011,Both sexes,24.1,57.0,25.0
+Latvia,2012,Both sexes,22.3,57.0,25.0
+Latvia,2013,Both sexes,20.2,57.0,25.0
+Latvia,2014,Both sexes,20.7,57.0,25.0
+Latvia,2015,Both sexes,21.0,57.0,25.0
+Lithuania,1995,Both sexes,53.3,56.0,24.0
+Lithuania,1996,Both sexes,49.6,56.0,24.0
+Lithuania,1997,Both sexes,47.1,56.0,24.0
+Lithuania,1998,Both sexes,47.2,56.0,24.0
+Lithuania,1999,Both sexes,46.8,56.0,24.0
+Lithuania,2000,Both sexes,47.7,56.0,24.0
+Lithuania,2001,Both sexes,47.4,56.0,24.0
+Lithuania,2002,Both sexes,46.3,56.0,24.0
+Lithuania,2003,Both sexes,44.2,56.0,24.0
+Lithuania,2004,Both sexes,41.9,56.0,24.0
+Lithuania,2005,Both sexes,40.5,56.0,24.0
+Lithuania,2006,Both sexes,33.4,56.0,24.0
+Lithuania,2007,Both sexes,33.9,56.0,24.0
+Lithuania,2008,Both sexes,35.8,56.0,24.0
+Lithuania,2009,Both sexes,36.4,56.0,24.0
+Lithuania,2010,Both sexes,32.9,56.0,24.0
+Lithuania,2011,Both sexes,34.0,56.0,24.0
+Lithuania,2012,Both sexes,31.2,56.0,24.0
+Lithuania,2013,Both sexes,37.0,56.0,24.0
+Lithuania,2014,Both sexes,33.4,56.0,24.0
+Lithuania,2015,Both sexes,32.1,56.0,24.0
+Lithuania,2016,Both sexes,36.2,56.0,24.0
+Luxembourg,1985,Both sexes,20.6,49.75,6.17
+Luxembourg,1986,Both sexes,15.3,49.75,6.17
+Luxembourg,1987,Both sexes,20.3,49.75,6.17
+Luxembourg,1988,Both sexes,17.6,49.75,6.17
+Luxembourg,1989,Both sexes,21.8,49.75,6.17
+Luxembourg,1990,Both sexes,19.4,49.75,6.17
+Luxembourg,1991,Both sexes,23.4,49.75,6.17
+Luxembourg,1992,Both sexes,19.0,49.75,6.17
+Luxembourg,1993,Both sexes,17.3,49.75,6.17
+Luxembourg,1994,Both sexes,23.1,49.75,6.17
+Luxembourg,1995,Both sexes,17.5,49.75,6.17
+Luxembourg,1996,Both sexes,19.1,49.75,6.17
+Luxembourg,1997,Both sexes,25.6,49.75,6.17
+Luxembourg,1998,Both sexes,16.8,49.75,6.17
+Luxembourg,1999,Both sexes,17.7,49.75,6.17
+Luxembourg,2000,Both sexes,18.6,49.75,6.17
+Luxembourg,2001,Both sexes,20.0,49.75,6.17
+Luxembourg,2002,Both sexes,22.0,49.75,6.17
+Luxembourg,2003,Both sexes,13.7,49.75,6.17
+Luxembourg,2004,Both sexes,15.8,49.75,6.17
+Luxembourg,2005,Both sexes,13.3,49.75,6.17
+Luxembourg,2006,Both sexes,15.3,49.75,6.17
+Luxembourg,2007,Both sexes,15.3,49.75,6.17
+Luxembourg,2008,Both sexes,9.4,49.75,6.17
+Luxembourg,2009,Both sexes,9.2,49.75,6.17
+Luxembourg,2010,Both sexes,11.8,49.75,6.17
+Luxembourg,2011,Both sexes,11.4,49.75,6.17
+Luxembourg,2012,Both sexes,11.7,49.75,6.17
+Luxembourg,2013,Both sexes,7.6,49.75,6.17
+Luxembourg,2014,Both sexes,12.3,49.75,6.17
+Luxembourg,2015,Both sexes,11.2,49.75,6.17
+Macau,1994,Both sexes,14.3,22.17,113.55
+Maldives,2000,Both sexes,0.0,3.25,73.0
+Maldives,2001,Both sexes,9.2,3.25,73.0
+Maldives,2002,Both sexes,0.8,3.25,73.0
+Maldives,2003,Both sexes,1.3,3.25,73.0
+Maldives,2004,Both sexes,0.3,3.25,73.0
+Maldives,2005,Both sexes,0.2,3.25,73.0
+Maldives,2007,Both sexes,1.2,3.25,73.0
+Maldives,2008,Both sexes,0.0,3.25,73.0
+Maldives,2010,Both sexes,0.2,3.25,73.0
+Maldives,2011,Both sexes,0.4,3.25,73.0
+Malta,1985,Both sexes,0.7,35.92,14.42
+Malta,1986,Both sexes,0.3,35.92,14.42
+Malta,1987,Both sexes,1.6,35.92,14.42
+Malta,1988,Both sexes,2.4,35.92,14.42
+Malta,1989,Both sexes,7.5,35.92,14.42
+Malta,1990,Both sexes,2.0,35.92,14.42
+Malta,1991,Both sexes,2.5,35.92,14.42
+Malta,1992,Both sexes,7.3,35.92,14.42
+Malta,1993,Both sexes,4.0,35.92,14.42
+Malta,1994,Both sexes,5.4,35.92,14.42
+Malta,1995,Both sexes,3.9,35.92,14.42
+Malta,1996,Both sexes,4.0,35.92,14.42
+Malta,1997,Both sexes,5.9,35.92,14.42
+Malta,1998,Both sexes,2.6,35.92,14.42
+Malta,1999,Both sexes,7.6,35.92,14.42
+Malta,2000,Both sexes,6.5,35.92,14.42
+Malta,2001,Both sexes,7.1,35.92,14.42
+Malta,2002,Both sexes,4.6,35.92,14.42
+Malta,2003,Both sexes,6.2,35.92,14.42
+Malta,2004,Both sexes,7.2,35.92,14.42
+Malta,2005,Both sexes,5.7,35.92,14.42
+Malta,2006,Both sexes,7.3,35.92,14.42
+Malta,2007,Both sexes,6.2,35.92,14.42
+Malta,2008,Both sexes,3.2,35.92,14.42
+Malta,2009,Both sexes,8.9,35.92,14.42
+Malta,2010,Both sexes,6.8,35.92,14.42
+Malta,2011,Both sexes,4.0,35.92,14.42
+Malta,2012,Both sexes,5.0,35.92,14.42
+Malta,2013,Both sexes,4.8,35.92,14.42
+Malta,2014,Both sexes,8.5,35.92,14.42
+Malta,2015,Both sexes,6.5,35.92,14.42
+Mauritius,1985,Both sexes,11.9,-20.35,57.55
+Mauritius,1986,Both sexes,2.5,-20.35,57.55
+Mauritius,1987,Both sexes,14.3,-20.35,57.55
+Mauritius,1988,Both sexes,20.5,-20.35,57.55
+Mauritius,1989,Both sexes,17.6,-20.35,57.55
+Mauritius,1990,Both sexes,13.6,-20.35,57.55
+Mauritius,1991,Both sexes,16.4,-20.35,57.55
+Mauritius,1992,Both sexes,16.6,-20.35,57.55
+Mauritius,1993,Both sexes,14.6,-20.35,57.55
+Mauritius,1994,Both sexes,12.9,-20.35,57.55
+Mauritius,1995,Both sexes,15.2,-20.35,57.55
+Mauritius,1996,Both sexes,13.8,-20.35,57.55
+Mauritius,1997,Both sexes,12.0,-20.35,57.55
+Mauritius,1998,Both sexes,12.9,-20.35,57.55
+Mauritius,1999,Both sexes,15.5,-20.35,57.55
+Mauritius,2000,Both sexes,11.7,-20.35,57.55
+Mauritius,2001,Both sexes,10.2,-20.35,57.55
+Mauritius,2002,Both sexes,11.0,-20.35,57.55
+Mauritius,2003,Both sexes,7.8,-20.35,57.55
+Mauritius,2004,Both sexes,8.4,-20.35,57.55
+Mauritius,2005,Both sexes,8.5,-20.35,57.55
+Mauritius,2006,Both sexes,13.6,-20.35,57.55
+Mauritius,2007,Both sexes,11.8,-20.35,57.55
+Mauritius,2008,Both sexes,6.5,-20.35,57.55
+Mauritius,2009,Both sexes,8.8,-20.35,57.55
+Mauritius,2010,Both sexes,9.3,-20.35,57.55
+Mauritius,2011,Both sexes,10.0,-20.35,57.55
+Mauritius,2012,Both sexes,9.5,-20.35,57.55
+Mauritius,2013,Both sexes,8.1,-20.35,57.55
+Mauritius,2014,Both sexes,9.6,-20.35,57.55
+Mauritius,2015,Both sexes,8.3,-20.35,57.55
+Mauritius,2016,Both sexes,9.9,-20.35,57.55
+Mexico,1985,Both sexes,3.2,23.0,-102.0
+Mexico,1986,Both sexes,3.8,23.0,-102.0
+Mexico,1987,Both sexes,3.5,23.0,-102.0
+Mexico,1988,Both sexes,3.5,23.0,-102.0
+Mexico,1989,Both sexes,4.0,23.0,-102.0
+Mexico,1990,Both sexes,4.1,23.0,-102.0
+Mexico,1991,Both sexes,4.0,23.0,-102.0
+Mexico,1992,Both sexes,4.3,23.0,-102.0
+Mexico,1993,Both sexes,4.3,23.0,-102.0
+Mexico,1994,Both sexes,4.7,23.0,-102.0
+Mexico,1995,Both sexes,4.9,23.0,-102.0
+Mexico,1996,Both sexes,4.7,23.0,-102.0
+Mexico,1997,Both sexes,4.8,23.0,-102.0
+Mexico,1998,Both sexes,4.7,23.0,-102.0
+Mexico,1999,Both sexes,4.6,23.0,-102.0
+Mexico,2000,Both sexes,4.6,23.0,-102.0
+Mexico,2001,Both sexes,5.3,23.0,-102.0
+Mexico,2002,Both sexes,4.9,23.0,-102.0
+Mexico,2003,Both sexes,5.2,23.0,-102.0
+Mexico,2004,Both sexes,5.1,23.0,-102.0
+Mexico,2005,Both sexes,5.2,23.0,-102.0
+Mexico,2006,Both sexes,4.9,23.0,-102.0
+Mexico,2007,Both sexes,4.8,23.0,-102.0
+Mexico,2008,Both sexes,5.1,23.0,-102.0
+Mexico,2009,Both sexes,5.3,23.0,-102.0
+Mexico,2010,Both sexes,5.1,23.0,-102.0
+Mexico,2011,Both sexes,5.5,23.0,-102.0
+Mexico,2012,Both sexes,5.3,23.0,-102.0
+Mexico,2013,Both sexes,5.4,23.0,-102.0
+Mexico,2014,Both sexes,5.7,23.0,-102.0
+Mexico,2015,Both sexes,5.5,23.0,-102.0
+Mongolia,2016,Both sexes,18.4,46.0,105.0
+Montenegro,2000,Both sexes,0.0,42.5,19.3
+Montenegro,2001,Both sexes,0.0,42.5,19.3
+Montenegro,2002,Both sexes,0.0,42.5,19.3
+Montenegro,2003,Both sexes,0.0,42.5,19.3
+Montenegro,2004,Both sexes,0.0,42.5,19.3
+Montenegro,2005,Both sexes,22.9,42.5,19.3
+Montenegro,2006,Both sexes,0.0,42.5,19.3
+Montenegro,2007,Both sexes,28.0,42.5,19.3
+Montenegro,2008,Both sexes,25.7,42.5,19.3
+Montenegro,2009,Both sexes,23.0,42.5,19.3
+Netherlands,1985,Both sexes,13.3,52.5,5.75
+Netherlands,1986,Both sexes,13.2,52.5,5.75
+Netherlands,1987,Both sexes,13.1,52.5,5.75
+Netherlands,1988,Both sexes,12.3,52.5,5.75
+Netherlands,1989,Both sexes,11.3,52.5,5.75
+Netherlands,1990,Both sexes,11.3,52.5,5.75
+Netherlands,1991,Both sexes,12.5,52.5,5.75
+Netherlands,1992,Both sexes,12.0,52.5,5.75
+Netherlands,1993,Both sexes,11.3,52.5,5.75
+Netherlands,1994,Both sexes,11.4,52.5,5.75
+Netherlands,1995,Both sexes,10.4,52.5,5.75
+Netherlands,1996,Both sexes,11.3,52.5,5.75
+Netherlands,1997,Both sexes,11.4,52.5,5.75
+Netherlands,1998,Both sexes,10.7,52.5,5.75
+Netherlands,1999,Both sexes,10.3,52.5,5.75
+Netherlands,2000,Both sexes,9.9,52.5,5.75
+Netherlands,2001,Both sexes,9.7,52.5,5.75
+Netherlands,2002,Both sexes,10.0,52.5,5.75
+Netherlands,2003,Both sexes,9.4,52.5,5.75
+Netherlands,2004,Both sexes,9.3,52.5,5.75
+Netherlands,2005,Both sexes,9.4,52.5,5.75
+Netherlands,2006,Both sexes,9.4,52.5,5.75
+Netherlands,2007,Both sexes,8.1,52.5,5.75
+Netherlands,2008,Both sexes,8.5,52.5,5.75
+Netherlands,2009,Both sexes,9.0,52.5,5.75
+Netherlands,2010,Both sexes,9.1,52.5,5.75
+Netherlands,2011,Both sexes,9.4,52.5,5.75
+Netherlands,2012,Both sexes,9.9,52.5,5.75
+Netherlands,2013,Both sexes,10.5,52.5,5.75
+Netherlands,2014,Both sexes,10.1,52.5,5.75
+Netherlands,2015,Both sexes,10.6,52.5,5.75
+Netherlands,2016,Both sexes,12.7,52.5,5.75
+New Zealand,1985,Both sexes,12.8,-41.0,174.0
+New Zealand,1986,Both sexes,14.9,-41.0,174.0
+New Zealand,1987,Both sexes,17.5,-41.0,174.0
+New Zealand,1988,Both sexes,17.1,-41.0,174.0
+New Zealand,1989,Both sexes,15.9,-41.0,174.0
+New Zealand,1990,Both sexes,15.5,-41.0,174.0
+New Zealand,1991,Both sexes,14.6,-41.0,174.0
+New Zealand,1992,Both sexes,15.3,-41.0,174.0
+New Zealand,1993,Both sexes,13.7,-41.0,174.0
+New Zealand,1994,Both sexes,16.6,-41.0,174.0
+New Zealand,1995,Both sexes,16.6,-41.0,174.0
+New Zealand,1996,Both sexes,16.3,-41.0,174.0
+New Zealand,1997,Both sexes,16.5,-41.0,174.0
+New Zealand,1998,Both sexes,16.8,-41.0,174.0
+New Zealand,1999,Both sexes,14.7,-41.0,174.0
+New Zealand,2000,Both sexes,13.1,-41.0,174.0
+New Zealand,2001,Both sexes,15.0,-41.0,174.0
+New Zealand,2002,Both sexes,12.7,-41.0,174.0
+New Zealand,2003,Both sexes,14.4,-41.0,174.0
+New Zealand,2004,Both sexes,13.6,-41.0,174.0
+New Zealand,2005,Both sexes,13.2,-41.0,174.0
+New Zealand,2006,Both sexes,13.1,-41.0,174.0
+New Zealand,2007,Both sexes,12.3,-41.0,174.0
+New Zealand,2008,Both sexes,12.6,-41.0,174.0
+New Zealand,2009,Both sexes,12.8,-41.0,174.0
+New Zealand,2010,Both sexes,12.7,-41.0,174.0
+New Zealand,2011,Both sexes,11.9,-41.0,174.0
+New Zealand,2012,Both sexes,13.2,-41.0,174.0
+New Zealand,2013,Both sexes,12.0,-41.0,174.0
+Nicaragua,2010,Both sexes,7.4,13.0,-85.0
+Nicaragua,2011,Both sexes,7.5,13.0,-85.0
+Nicaragua,2012,Both sexes,6.0,13.0,-85.0
+Nicaragua,2013,Both sexes,6.7,13.0,-85.0
+Nicaragua,2014,Both sexes,6.0,13.0,-85.0
+Nicaragua,2015,Both sexes,5.8,13.0,-85.0
+Norway,1986,Both sexes,13.6,62.0,10.0
+Norway,1987,Both sexes,16.0,62.0,10.0
+Norway,1988,Both sexes,17.4,62.0,10.0
+Norway,1989,Both sexes,16.5,62.0,10.0
+Norway,1990,Both sexes,15.9,62.0,10.0
+Norway,1991,Both sexes,16.2,62.0,10.0
+Norway,1992,Both sexes,15.1,62.0,10.0
+Norway,1993,Both sexes,14.8,62.0,10.0
+Norway,1994,Both sexes,12.5,62.0,10.0
+Norway,1995,Both sexes,13.0,62.0,10.0
+Norway,1996,Both sexes,12.8,62.0,10.0
+Norway,1997,Both sexes,13.2,62.0,10.0
+Norway,1998,Both sexes,12.8,62.0,10.0
+Norway,1999,Both sexes,13.6,62.0,10.0
+Norway,2000,Both sexes,12.5,62.0,10.0
+Norway,2001,Both sexes,12.9,62.0,10.0
+Norway,2002,Both sexes,11.8,62.0,10.0
+Norway,2003,Both sexes,11.5,62.0,10.0
+Norway,2004,Both sexes,11.8,62.0,10.0
+Norway,2005,Both sexes,11.8,62.0,10.0
+Norway,2006,Both sexes,11.9,62.0,10.0
+Norway,2007,Both sexes,10.6,62.0,10.0
+Norway,2008,Both sexes,11.0,62.0,10.0
+Norway,2009,Both sexes,12.1,62.0,10.0
+Norway,2010,Both sexes,11.4,62.0,10.0
+Norway,2011,Both sexes,12.2,62.0,10.0
+Norway,2012,Both sexes,10.5,62.0,10.0
+Norway,2013,Both sexes,10.6,62.0,10.0
+Norway,2014,Both sexes,10.6,62.0,10.0
+Norway,2015,Both sexes,11.4,62.0,10.0
+Oman,2009,Both sexes,1.8,21.0,57.0
+Oman,2010,Both sexes,0.3,21.0,57.0
+Oman,2014,Both sexes,0.1,21.0,57.0
+Panama,1985,Both sexes,4.3,9.0,-80.0
+Panama,1986,Both sexes,5.1,9.0,-80.0
+Panama,1987,Both sexes,5.6,9.0,-80.0
+Panama,1988,Both sexes,5.0,9.0,-80.0
+Panama,1989,Both sexes,4.6,9.0,-80.0
+Panama,1996,Both sexes,5.5,9.0,-80.0
+Panama,1997,Both sexes,6.9,9.0,-80.0
+Panama,1998,Both sexes,6.4,9.0,-80.0
+Panama,1999,Both sexes,6.5,9.0,-80.0
+Panama,2000,Both sexes,7.1,9.0,-80.0
+Panama,2001,Both sexes,7.2,9.0,-80.0
+Panama,2002,Both sexes,6.6,9.0,-80.0
+Panama,2003,Both sexes,8.1,9.0,-80.0
+Panama,2004,Both sexes,6.8,9.0,-80.0
+Panama,2005,Both sexes,6.5,9.0,-80.0
+Panama,2006,Both sexes,7.6,9.0,-80.0
+Panama,2007,Both sexes,6.0,9.0,-80.0
+Panama,2008,Both sexes,6.1,9.0,-80.0
+Panama,2009,Both sexes,5.7,9.0,-80.0
+Panama,2010,Both sexes,5.3,9.0,-80.0
+Panama,2011,Both sexes,5.2,9.0,-80.0
+Panama,2012,Both sexes,4.6,9.0,-80.0
+Panama,2013,Both sexes,4.1,9.0,-80.0
+Panama,2014,Both sexes,4.7,9.0,-80.0
+Panama,2015,Both sexes,3.7,9.0,-80.0
+Paraguay,1985,Both sexes,3.3,-23.0,-58.0
+Paraguay,1986,Both sexes,2.2,-23.0,-58.0
+Paraguay,1987,Both sexes,3.1,-23.0,-58.0
+Paraguay,1989,Both sexes,2.9,-23.0,-58.0
+Paraguay,1990,Both sexes,3.8,-23.0,-58.0
+Paraguay,1991,Both sexes,2.3,-23.0,-58.0
+Paraguay,1994,Both sexes,3.7,-23.0,-58.0
+Paraguay,1995,Both sexes,3.4,-23.0,-58.0
+Paraguay,1996,Both sexes,2.8,-23.0,-58.0
+Paraguay,1997,Both sexes,3.0,-23.0,-58.0
+Paraguay,1998,Both sexes,4.0,-23.0,-58.0
+Paraguay,1999,Both sexes,3.7,-23.0,-58.0
+Paraguay,2000,Both sexes,3.6,-23.0,-58.0
+Paraguay,2001,Both sexes,4.7,-23.0,-58.0
+Paraguay,2002,Both sexes,3.6,-23.0,-58.0
+Paraguay,2003,Both sexes,4.3,-23.0,-58.0
+Paraguay,2004,Both sexes,5.5,-23.0,-58.0
+Paraguay,2005,Both sexes,5.2,-23.0,-58.0
+Paraguay,2006,Both sexes,5.5,-23.0,-58.0
+Paraguay,2007,Both sexes,5.2,-23.0,-58.0
+Paraguay,2008,Both sexes,4.9,-23.0,-58.0
+Paraguay,2009,Both sexes,5.6,-23.0,-58.0
+Paraguay,2010,Both sexes,4.5,-23.0,-58.0
+Paraguay,2011,Both sexes,5.7,-23.0,-58.0
+Paraguay,2012,Both sexes,5.3,-23.0,-58.0
+Paraguay,2013,Both sexes,6.3,-23.0,-58.0
+Paraguay,2014,Both sexes,6.0,-23.0,-58.0
+Philippines,1992,Both sexes,0.8,13.0,122.0
+Philippines,1993,Both sexes,1.8,13.0,122.0
+Philippines,1997,Both sexes,1.7,13.0,122.0
+Philippines,1998,Both sexes,1.8,13.0,122.0
+Philippines,1999,Both sexes,2.1,13.0,122.0
+Philippines,2000,Both sexes,2.7,13.0,122.0
+Philippines,2001,Both sexes,2.3,13.0,122.0
+Philippines,2002,Both sexes,2.4,13.0,122.0
+Philippines,2003,Both sexes,2.8,13.0,122.0
+Philippines,2006,Both sexes,3.1,13.0,122.0
+Philippines,2007,Both sexes,2.4,13.0,122.0
+Philippines,2008,Both sexes,2.8,13.0,122.0
+Philippines,2009,Both sexes,2.9,13.0,122.0
+Philippines,2010,Both sexes,3.1,13.0,122.0
+Philippines,2011,Both sexes,3.7,13.0,122.0
+Poland,1990,Both sexes,14.4,52.0,20.0
+Poland,1991,Both sexes,15.0,52.0,20.0
+Poland,1992,Both sexes,16.2,52.0,20.0
+Poland,1993,Both sexes,15.7,52.0,20.0
+Poland,1994,Both sexes,15.5,52.0,20.0
+Poland,1995,Both sexes,15.1,52.0,20.0
+Poland,1996,Both sexes,14.9,52.0,20.0
+Poland,1999,Both sexes,15.3,52.0,20.0
+Poland,2000,Both sexes,15.9,52.0,20.0
+Poland,2001,Both sexes,15.1,52.0,20.0
+Poland,2002,Both sexes,15.3,52.0,20.0
+Poland,2003,Both sexes,15.0,52.0,20.0
+Poland,2004,Both sexes,15.6,52.0,20.0
+Poland,2005,Both sexes,15.5,52.0,20.0
+Poland,2006,Both sexes,15.2,52.0,20.0
+Poland,2007,Both sexes,13.9,52.0,20.0
+Poland,2008,Both sexes,14.8,52.0,20.0
+Poland,2009,Both sexes,16.4,52.0,20.0
+Poland,2010,Both sexes,15.9,52.0,20.0
+Poland,2011,Both sexes,15.3,52.0,20.0
+Poland,2012,Both sexes,16.0,52.0,20.0
+Poland,2013,Both sexes,15.6,52.0,20.0
+Poland,2014,Both sexes,14.9,52.0,20.0
+Poland,2015,Both sexes,13.9,52.0,20.0
+Portugal,1985,Both sexes,13.7,39.5,-8.0
+Portugal,1986,Both sexes,13.8,39.5,-8.0
+Portugal,1987,Both sexes,14.3,39.5,-8.0
+Portugal,1988,Both sexes,11.5,39.5,-8.0
+Portugal,1989,Both sexes,10.9,39.5,-8.0
+Portugal,1990,Both sexes,12.5,39.5,-8.0
+Portugal,1991,Both sexes,13.8,39.5,-8.0
+Portugal,1992,Both sexes,12.4,39.5,-8.0
+Portugal,1993,Both sexes,10.5,39.5,-8.0
+Portugal,1994,Both sexes,10.3,39.5,-8.0
+Portugal,1995,Both sexes,10.7,39.5,-8.0
+Portugal,1996,Both sexes,9.6,39.5,-8.0
+Portugal,1997,Both sexes,8.5,39.5,-8.0
+Portugal,1998,Both sexes,7.3,39.5,-8.0
+Portugal,1999,Both sexes,7.5,39.5,-8.0
+Portugal,2000,Both sexes,7.2,39.5,-8.0
+Portugal,2001,Both sexes,9.6,39.5,-8.0
+Portugal,2002,Both sexes,14.3,39.5,-8.0
+Portugal,2003,Both sexes,13.9,39.5,-8.0
+Portugal,2007,Both sexes,12.0,39.5,-8.0
+Portugal,2008,Both sexes,11.8,39.5,-8.0
+Portugal,2009,Both sexes,11.6,39.5,-8.0
+Portugal,2010,Both sexes,12.4,39.5,-8.0
+Portugal,2011,Both sexes,10.7,39.5,-8.0
+Portugal,2012,Both sexes,11.6,39.5,-8.0
+Portugal,2013,Both sexes,11.1,39.5,-8.0
+Portugal,2014,Both sexes,12.8,39.5,-8.0
+Puerto Rico,1985,Both sexes,12.9,18.2,-66.5
+Puerto Rico,1986,Both sexes,14.9,18.2,-66.5
+Puerto Rico,1987,Both sexes,12.0,18.2,-66.5
+Puerto Rico,1988,Both sexes,13.5,18.2,-66.5
+Puerto Rico,1989,Both sexes,14.1,18.2,-66.5
+Puerto Rico,1990,Both sexes,15.1,18.2,-66.5
+Puerto Rico,1991,Both sexes,15.4,18.2,-66.5
+Puerto Rico,1992,Both sexes,11.3,18.2,-66.5
+Puerto Rico,1993,Both sexes,12.6,18.2,-66.5
+Puerto Rico,1994,Both sexes,12.3,18.2,-66.5
+Puerto Rico,1995,Both sexes,10.1,18.2,-66.5
+Puerto Rico,1996,Both sexes,11.7,18.2,-66.5
+Puerto Rico,1997,Both sexes,8.3,18.2,-66.5
+Puerto Rico,1998,Both sexes,10.9,18.2,-66.5
+Puerto Rico,1999,Both sexes,9.8,18.2,-66.5
+Puerto Rico,2000,Both sexes,9.0,18.2,-66.5
+Puerto Rico,2001,Both sexes,8.9,18.2,-66.5
+Puerto Rico,2002,Both sexes,7.6,18.2,-66.5
+Puerto Rico,2003,Both sexes,8.1,18.2,-66.5
+Puerto Rico,2004,Both sexes,9.1,18.2,-66.5
+Puerto Rico,2005,Both sexes,8.8,18.2,-66.5
+Puerto Rico,2006,Both sexes,7.9,18.2,-66.5
+Puerto Rico,2007,Both sexes,7.8,18.2,-66.5
+Puerto Rico,2008,Both sexes,8.9,18.2,-66.5
+Puerto Rico,2009,Both sexes,10.4,18.2,-66.5
+Puerto Rico,2010,Both sexes,8.7,18.2,-66.5
+Puerto Rico,2011,Both sexes,7.5,18.2,-66.5
+Puerto Rico,2012,Both sexes,7.3,18.2,-66.5
+Puerto Rico,2013,Both sexes,7.5,18.2,-66.5
+Puerto Rico,2014,Both sexes,6.4,18.2,-66.5
+Puerto Rico,2015,Both sexes,7.1,18.2,-66.5
+Qatar,1995,Both sexes,0.0,25.5,51.25
+Qatar,2001,Both sexes,2.3,25.5,51.25
+Qatar,2004,Both sexes,1.3,25.5,51.25
+Qatar,2005,Both sexes,1.6,25.5,51.25
+Qatar,2006,Both sexes,7.3,25.5,51.25
+Qatar,2007,Both sexes,2.4,25.5,51.25
+Qatar,2008,Both sexes,1.1,25.5,51.25
+Qatar,2009,Both sexes,1.7,25.5,51.25
+Qatar,2010,Both sexes,1.1,25.5,51.25
+Qatar,2011,Both sexes,1.6,25.5,51.25
+Qatar,2012,Both sexes,1.1,25.5,51.25
+Qatar,2013,Both sexes,0.7,25.5,51.25
+Qatar,2014,Both sexes,1.6,25.5,51.25
+Qatar,2015,Both sexes,1.6,25.5,51.25
+Qatar,2016,Both sexes,1.6,25.5,51.25
+Republic of Korea,1985,Both sexes,12.2,37.0,127.5
+Republic of Korea,1986,Both sexes,11.9,37.0,127.5
+Republic of Korea,1987,Both sexes,10.7,37.0,127.5
+Republic of Korea,1988,Both sexes,9.5,37.0,127.5
+Republic of Korea,1989,Both sexes,10.1,37.0,127.5
+Republic of Korea,1990,Both sexes,10.0,37.0,127.5
+Republic of Korea,1991,Both sexes,9.7,37.0,127.5
+Republic of Korea,1992,Both sexes,10.6,37.0,127.5
+Republic of Korea,1993,Both sexes,13.3,37.0,127.5
+Republic of Korea,1994,Both sexes,13.8,37.0,127.5
+Republic of Korea,1995,Both sexes,14.9,37.0,127.5
+Republic of Korea,1996,Both sexes,18.1,37.0,127.5
+Republic of Korea,1997,Both sexes,18.9,37.0,127.5
+Republic of Korea,1998,Both sexes,25.2,37.0,127.5
+Republic of Korea,1999,Both sexes,21.5,37.0,127.5
+Republic of Korea,2000,Both sexes,20.7,37.0,127.5
+Republic of Korea,2001,Both sexes,22.8,37.0,127.5
+Republic of Korea,2002,Both sexes,30.1,37.0,127.5
+Republic of Korea,2003,Both sexes,37.8,37.0,127.5
+Republic of Korea,2004,Both sexes,39.1,37.0,127.5
+Republic of Korea,2005,Both sexes,39.9,37.0,127.5
+Republic of Korea,2006,Both sexes,35.0,37.0,127.5
+Republic of Korea,2007,Both sexes,38.9,37.0,127.5
+Republic of Korea,2008,Both sexes,37.7,37.0,127.5
+Republic of Korea,2009,Both sexes,43.3,37.0,127.5
+Republic of Korea,2010,Both sexes,43.2,37.0,127.5
+Republic of Korea,2011,Both sexes,42.9,37.0,127.5
+Republic of Korea,2012,Both sexes,36.9,37.0,127.5
+Republic of Korea,2013,Both sexes,35.7,37.0,127.5
+Republic of Korea,2014,Both sexes,32.1,37.0,127.5
+Republic of Korea,2015,Both sexes,32.4,37.0,127.5
+Romania,1989,Both sexes,13.1,46.0,25.0
+Romania,1990,Both sexes,10.5,46.0,25.0
+Romania,1991,Both sexes,11.1,46.0,25.0
+Romania,1992,Both sexes,13.7,46.0,25.0
+Romania,1993,Both sexes,13.5,46.0,25.0
+Romania,1994,Both sexes,14.4,46.0,25.0
+Romania,1995,Both sexes,13.0,46.0,25.0
+Romania,1996,Both sexes,13.3,46.0,25.0
+Romania,1997,Both sexes,13.5,46.0,25.0
+Romania,1998,Both sexes,13.4,46.0,25.0
+Romania,1999,Both sexes,13.2,46.0,25.0
+Romania,2000,Both sexes,13.3,46.0,25.0
+Romania,2001,Both sexes,12.4,46.0,25.0
+Romania,2002,Both sexes,14.5,46.0,25.0
+Romania,2003,Both sexes,13.3,46.0,25.0
+Romania,2004,Both sexes,12.6,46.0,25.0
+Romania,2005,Both sexes,12.2,46.0,25.0
+Romania,2006,Both sexes,12.4,46.0,25.0
+Romania,2007,Both sexes,11.3,46.0,25.0
+Romania,2008,Both sexes,11.7,46.0,25.0
+Romania,2009,Both sexes,12.0,46.0,25.0
+Romania,2010,Both sexes,12.5,46.0,25.0
+Romania,2011,Both sexes,11.6,46.0,25.0
+Romania,2012,Both sexes,11.8,46.0,25.0
+Romania,2013,Both sexes,11.5,46.0,25.0
+Romania,2014,Both sexes,10.9,46.0,25.0
+Romania,2015,Both sexes,11.1,46.0,25.0
+Romania,2016,Both sexes,11.6,46.0,25.0
+Russian Federation,1989,Both sexes,33.2,60.0,100.0
+Russian Federation,1990,Both sexes,33.3,60.0,100.0
+Russian Federation,1991,Both sexes,33.0,60.0,100.0
+Russian Federation,1992,Both sexes,36.5,60.0,100.0
+Russian Federation,1993,Both sexes,43.5,60.0,100.0
+Russian Federation,1994,Both sexes,47.3,60.0,100.0
+Russian Federation,1995,Both sexes,45.6,60.0,100.0
+Russian Federation,1996,Both sexes,43.9,60.0,100.0
+Russian Federation,1997,Both sexes,42.3,60.0,100.0
+Russian Federation,1998,Both sexes,39.6,60.0,100.0
+Russian Federation,1999,Both sexes,42.5,60.0,100.0
+Russian Federation,2000,Both sexes,42.0,60.0,100.0
+Russian Federation,2001,Both sexes,42.1,60.0,100.0
+Russian Federation,2002,Both sexes,40.7,60.0,100.0
+Russian Federation,2003,Both sexes,39.1,60.0,100.0
+Russian Federation,2004,Both sexes,37.3,60.0,100.0
+Russian Federation,2005,Both sexes,35.0,60.0,100.0
+Russian Federation,2006,Both sexes,33.4,60.0,100.0
+Russian Federation,2007,Both sexes,32.2,60.0,100.0
+Russian Federation,2008,Both sexes,30.6,60.0,100.0
+Russian Federation,2009,Both sexes,29.4,60.0,100.0
+Russian Federation,2010,Both sexes,26.6,60.0,100.0
+Russian Federation,2011,Both sexes,25.0,60.0,100.0
+Russian Federation,2012,Both sexes,23.8,60.0,100.0
+Russian Federation,2013,Both sexes,22.8,60.0,100.0
+Russian Federation,2014,Both sexes,21.6,60.0,100.0
+Russian Federation,2015,Both sexes,19.7,60.0,100.0
+Saint Kitts and Nevis,1990,Both sexes,0.0,17.33,-62.75
+Saint Kitts and Nevis,1991,Both sexes,0.0,17.33,-62.75
+Saint Kitts and Nevis,1992,Both sexes,0.0,17.33,-62.75
+Saint Lucia,1986,Both sexes,5.0,13.88,-61.12
+Saint Lucia,1987,Both sexes,11.8,13.88,-61.12
+Saint Lucia,1988,Both sexes,15.2,13.88,-61.12
+Saint Lucia,1989,Both sexes,7.4,13.88,-61.12
+Saint Lucia,1990,Both sexes,2.2,13.88,-61.12
+Saint Lucia,1991,Both sexes,8.7,13.88,-61.12
+Saint Lucia,1992,Both sexes,8.2,13.88,-61.12
+Saint Lucia,1993,Both sexes,6.3,13.88,-61.12
+Saint Lucia,1994,Both sexes,3.8,13.88,-61.12
+Saint Lucia,1995,Both sexes,6.8,13.88,-61.12
+Saint Lucia,1996,Both sexes,5.1,13.88,-61.12
+Saint Lucia,1997,Both sexes,9.8,13.88,-61.12
+Saint Lucia,1998,Both sexes,9.9,13.88,-61.12
+Saint Lucia,1999,Both sexes,6.2,13.88,-61.12
+Saint Lucia,2000,Both sexes,16.5,13.88,-61.12
+Saint Lucia,2001,Both sexes,4.9,13.88,-61.12
+Saint Lucia,2002,Both sexes,15.6,13.88,-61.12
+Saint Lucia,2003,Both sexes,11.1,13.88,-61.12
+Saint Lucia,2004,Both sexes,5.5,13.88,-61.12
+Saint Lucia,2005,Both sexes,2.1,13.88,-61.12
+Saint Lucia,2006,Both sexes,1.5,13.88,-61.12
+Saint Lucia,2008,Both sexes,0.0,13.88,-61.12
+Saint Lucia,2009,Both sexes,6.9,13.88,-61.12
+Saint Lucia,2010,Both sexes,2.5,13.88,-61.12
+Saint Lucia,2011,Both sexes,4.4,13.88,-61.12
+Saint Lucia,2012,Both sexes,7.1,13.88,-61.12
+Saint Lucia,2013,Both sexes,9.5,13.88,-61.12
+Saint Lucia,2014,Both sexes,7.6,13.88,-61.12
+Saint Vincent and Grenadines,1985,Both sexes,2.7,13.25,-61.2
+Saint Vincent and Grenadines,1986,Both sexes,0.0,13.25,-61.2
+Saint Vincent and Grenadines,1987,Both sexes,0.0,13.25,-61.2
+Saint Vincent and Grenadines,1990,Both sexes,6.0,13.25,-61.2
+Saint Vincent and Grenadines,1995,Both sexes,7.1,13.25,-61.2
+Saint Vincent and Grenadines,1996,Both sexes,7.1,13.25,-61.2
+Saint Vincent and Grenadines,1997,Both sexes,2.5,13.25,-61.2
+Saint Vincent and Grenadines,1998,Both sexes,16.2,13.25,-61.2
+Saint Vincent and Grenadines,1999,Both sexes,5.5,13.25,-61.2
+Saint Vincent and Grenadines,2000,Both sexes,3.7,13.25,-61.2
+Saint Vincent and Grenadines,2001,Both sexes,13.4,13.25,-61.2
+Saint Vincent and Grenadines,2002,Both sexes,16.9,13.25,-61.2
+Saint Vincent and Grenadines,2003,Both sexes,4.2,13.25,-61.2
+Saint Vincent and Grenadines,2004,Both sexes,3.9,13.25,-61.2
+Saint Vincent and Grenadines,2005,Both sexes,6.0,13.25,-61.2
+Saint Vincent and Grenadines,2006,Both sexes,10.2,13.25,-61.2
+Saint Vincent and Grenadines,2007,Both sexes,8.5,13.25,-61.2
+Saint Vincent and Grenadines,2008,Both sexes,3.4,13.25,-61.2
+Saint Vincent and Grenadines,2009,Both sexes,0.9,13.25,-61.2
+Saint Vincent and Grenadines,2010,Both sexes,4.6,13.25,-61.2
+Saint Vincent and Grenadines,2011,Both sexes,3.9,13.25,-61.2
+Saint Vincent and Grenadines,2012,Both sexes,8.1,13.25,-61.2
+Saint Vincent and Grenadines,2013,Both sexes,0.0,13.25,-61.2
+Saint Vincent and Grenadines,2014,Both sexes,6.7,13.25,-61.2
+Saint Vincent and Grenadines,2015,Both sexes,2.3,13.25,-61.2
+San Marino,1999,Both sexes,5.4,43.77,12.42
+San Marino,2000,Both sexes,3.9,43.77,12.42
+San Marino,2005,Both sexes,2.8,43.77,12.42
+Serbia,1998,Both sexes,25.6,44.0,21.0
+Serbia,1999,Both sexes,28.7,44.0,21.0
+Serbia,2000,Both sexes,27.0,44.0,21.0
+Serbia,2001,Both sexes,24.8,44.0,21.0
+Serbia,2002,Both sexes,24.7,44.0,21.0
+Serbia,2003,Both sexes,22.6,44.0,21.0
+Serbia,2004,Both sexes,21.9,44.0,21.0
+Serbia,2005,Both sexes,23.9,44.0,21.0
+Serbia,2006,Both sexes,23.8,44.0,21.0
+Serbia,2007,Both sexes,21.5,44.0,21.0
+Serbia,2008,Both sexes,20.2,44.0,21.0
+Serbia,2009,Both sexes,21.5,44.0,21.0
+Serbia,2010,Both sexes,19.5,44.0,21.0
+Serbia,2011,Both sexes,20.3,44.0,21.0
+Serbia,2012,Both sexes,19.5,44.0,21.0
+Serbia,2013,Both sexes,18.1,44.0,21.0
+Serbia,2014,Both sexes,18.1,44.0,21.0
+Serbia,2015,Both sexes,17.2,44.0,21.0
+Seychelles,1985,Both sexes,13.0,-4.67,55.47
+Seychelles,1986,Both sexes,1.9,-4.67,55.47
+Seychelles,1987,Both sexes,5.1,-4.67,55.47
+Seychelles,2001,Both sexes,7.3,-4.67,55.47
+Seychelles,2002,Both sexes,12.8,-4.67,55.47
+Seychelles,2003,Both sexes,8.3,-4.67,55.47
+Seychelles,2004,Both sexes,5.3,-4.67,55.47
+Seychelles,2005,Both sexes,6.0,-4.67,55.47
+Seychelles,2006,Both sexes,23.0,-4.67,55.47
+Seychelles,2007,Both sexes,12.3,-4.67,55.47
+Seychelles,2008,Both sexes,3.3,-4.67,55.47
+Seychelles,2009,Both sexes,3.7,-4.67,55.47
+Seychelles,2010,Both sexes,4.3,-4.67,55.47
+Seychelles,2011,Both sexes,4.3,-4.67,55.47
+Seychelles,2012,Both sexes,2.8,-4.67,55.47
+Seychelles,2013,Both sexes,11.0,-4.67,55.47
+Seychelles,2014,Both sexes,3.6,-4.67,55.47
+Seychelles,2015,Both sexes,6.8,-4.67,55.47
+Singapore,1985,Both sexes,29.4,1.37,103.8
+Singapore,1986,Both sexes,27.1,1.37,103.8
+Singapore,1987,Both sexes,22.8,1.37,103.8
+Singapore,1988,Both sexes,30.0,1.37,103.8
+Singapore,1989,Both sexes,29.5,1.37,103.8
+Singapore,1990,Both sexes,22.7,1.37,103.8
+Singapore,1991,Both sexes,19.1,1.37,103.8
+Singapore,1992,Both sexes,17.1,1.37,103.8
+Singapore,1993,Both sexes,19.6,1.37,103.8
+Singapore,1994,Both sexes,20.6,1.37,103.8
+Singapore,1995,Both sexes,23.6,1.37,103.8
+Singapore,1996,Both sexes,17.4,1.37,103.8
+Singapore,1997,Both sexes,17.2,1.37,103.8
+Singapore,1998,Both sexes,17.9,1.37,103.8
+Singapore,1999,Both sexes,13.9,1.37,103.8
+Singapore,2000,Both sexes,13.7,1.37,103.8
+Singapore,2001,Both sexes,14.0,1.37,103.8
+Singapore,2002,Both sexes,14.4,1.37,103.8
+Singapore,2003,Both sexes,14.4,1.37,103.8
+Singapore,2004,Both sexes,14.0,1.37,103.8
+Singapore,2005,Both sexes,15.0,1.37,103.8
+Singapore,2006,Both sexes,12.4,1.37,103.8
+Singapore,2007,Both sexes,13.8,1.37,103.8
+Singapore,2008,Both sexes,12.5,1.37,103.8
+Singapore,2009,Both sexes,12.5,1.37,103.8
+Singapore,2010,Both sexes,10.8,1.37,103.8
+Singapore,2011,Both sexes,9.7,1.37,103.8
+Singapore,2012,Both sexes,11.8,1.37,103.8
+Singapore,2013,Both sexes,11.5,1.37,103.8
+Singapore,2014,Both sexes,11.0,1.37,103.8
+Singapore,2015,Both sexes,9.1,1.37,103.8
+Slovakia,1992,Both sexes,17.9,48.67,19.5
+Slovakia,1993,Both sexes,16.3,48.67,19.5
+Slovakia,1994,Both sexes,15.4,48.67,19.5
+Slovakia,1995,Both sexes,16.6,48.67,19.5
+Slovakia,1996,Both sexes,14.5,48.67,19.5
+Slovakia,1997,Both sexes,13.7,48.67,19.5
+Slovakia,1998,Both sexes,13.5,48.67,19.5
+Slovakia,1999,Both sexes,14.3,48.67,19.5
+Slovakia,2000,Both sexes,15.0,48.67,19.5
+Slovakia,2001,Both sexes,14.3,48.67,19.5
+Slovakia,2002,Both sexes,16.0,48.67,19.5
+Slovakia,2003,Both sexes,14.1,48.67,19.5
+Slovakia,2004,Both sexes,12.6,48.67,19.5
+Slovakia,2005,Both sexes,13.8,48.67,19.5
+Slovakia,2006,Both sexes,0.0,48.67,19.5
+Slovakia,2007,Both sexes,0.0,48.67,19.5
+Slovakia,2008,Both sexes,11.2,48.67,19.5
+Slovakia,2009,Both sexes,11.6,48.67,19.5
+Slovakia,2010,Both sexes,12.0,48.67,19.5
+Slovakia,2012,Both sexes,10.8,48.67,19.5
+Slovakia,2013,Both sexes,12.0,48.67,19.5
+Slovakia,2014,Both sexes,11.1,48.67,19.5
+Slovenia,1995,Both sexes,32.8,46.17,14.82
+Slovenia,1996,Both sexes,35.1,46.17,14.82
+Slovenia,1997,Both sexes,34.2,46.17,14.82
+Slovenia,1998,Both sexes,34.5,46.17,14.82
+Slovenia,1999,Both sexes,32.8,46.17,14.82
+Slovenia,2000,Both sexes,33.7,46.17,14.82
+Slovenia,2001,Both sexes,35.3,46.17,14.82
+Slovenia,2002,Both sexes,29.5,46.17,14.82
+Slovenia,2003,Both sexes,31.4,46.17,14.82
+Slovenia,2004,Both sexes,24.9,46.17,14.82
+Slovenia,2005,Both sexes,28.1,46.17,14.82
+Slovenia,2006,Both sexes,29.0,46.17,14.82
+Slovenia,2007,Both sexes,24.3,46.17,14.82
+Slovenia,2008,Both sexes,21.9,46.17,14.82
+Slovenia,2009,Both sexes,22.4,46.17,14.82
+Slovenia,2010,Both sexes,22.1,46.17,14.82
+Slovenia,2011,Both sexes,23.5,46.17,14.82
+Slovenia,2012,Both sexes,23.3,46.17,14.82
+Slovenia,2013,Both sexes,23.6,46.17,14.82
+Slovenia,2014,Both sexes,20.0,46.17,14.82
+Slovenia,2015,Both sexes,22.1,46.17,14.82
+South Africa,1996,Both sexes,0.7,-29.0,24.0
+South Africa,1997,Both sexes,0.4,-29.0,24.0
+South Africa,1998,Both sexes,0.6,-29.0,24.0
+South Africa,1999,Both sexes,0.9,-29.0,24.0
+South Africa,2000,Both sexes,0.8,-29.0,24.0
+South Africa,2001,Both sexes,1.0,-29.0,24.0
+South Africa,2002,Both sexes,0.6,-29.0,24.0
+South Africa,2003,Both sexes,0.8,-29.0,24.0
+South Africa,2004,Both sexes,1.1,-29.0,24.0
+South Africa,2005,Both sexes,1.3,-29.0,24.0
+South Africa,2006,Both sexes,1.5,-29.0,24.0
+South Africa,2007,Both sexes,1.0,-29.0,24.0
+South Africa,2008,Both sexes,1.2,-29.0,24.0
+South Africa,2009,Both sexes,0.9,-29.0,24.0
+South Africa,2010,Both sexes,1.1,-29.0,24.0
+South Africa,2011,Both sexes,0.8,-29.0,24.0
+South Africa,2012,Both sexes,1.1,-29.0,24.0
+South Africa,2013,Both sexes,1.2,-29.0,24.0
+South Africa,2014,Both sexes,1.3,-29.0,24.0
+South Africa,2015,Both sexes,1.1,-29.0,24.0
+Spain,1985,Both sexes,9.6,40.0,-4.0
+Spain,1986,Both sexes,10.0,40.0,-4.0
+Spain,1987,Both sexes,10.2,40.0,-4.0
+Spain,1988,Both sexes,10.6,40.0,-4.0
+Spain,1989,Both sexes,10.5,40.0,-4.0
+Spain,1990,Both sexes,10.8,40.0,-4.0
+Spain,1991,Both sexes,10.2,40.0,-4.0
+Spain,1992,Both sexes,9.9,40.0,-4.0
+Spain,1993,Both sexes,10.1,40.0,-4.0
+Spain,1994,Both sexes,10.4,40.0,-4.0
+Spain,1995,Both sexes,10.3,40.0,-4.0
+Spain,1996,Both sexes,10.5,40.0,-4.0
+Spain,1997,Both sexes,10.9,40.0,-4.0
+Spain,1998,Both sexes,10.3,40.0,-4.0
+Spain,1999,Both sexes,9.9,40.0,-4.0
+Spain,2000,Both sexes,10.2,40.0,-4.0
+Spain,2001,Both sexes,9.4,40.0,-4.0
+Spain,2002,Both sexes,9.6,40.0,-4.0
+Spain,2003,Both sexes,9.7,40.0,-4.0
+Spain,2004,Both sexes,9.4,40.0,-4.0
+Spain,2005,Both sexes,9.0,40.0,-4.0
+Spain,2006,Both sexes,8.3,40.0,-4.0
+Spain,2007,Both sexes,8.2,40.0,-4.0
+Spain,2008,Both sexes,8.2,40.0,-4.0
+Spain,2009,Both sexes,8.2,40.0,-4.0
+Spain,2010,Both sexes,7.3,40.0,-4.0
+Spain,2011,Both sexes,7.4,40.0,-4.0
+Spain,2012,Both sexes,8.1,40.0,-4.0
+Spain,2013,Both sexes,8.4,40.0,-4.0
+Spain,2014,Both sexes,8.7,40.0,-4.0
+Spain,2015,Both sexes,8.1,40.0,-4.0
+Sri Lanka,1985,Both sexes,46.6,7.0,81.0
+Sri Lanka,1986,Both sexes,44.2,7.0,81.0
+Sri Lanka,1996,Both sexes,33.0,7.0,81.0
+Sri Lanka,1997,Both sexes,39.3,7.0,81.0
+Sri Lanka,1998,Both sexes,37.6,7.0,81.0
+Sri Lanka,1999,Both sexes,37.1,7.0,81.0
+Sri Lanka,2000,Both sexes,35.6,7.0,81.0
+Sri Lanka,2001,Both sexes,29.8,7.0,81.0
+Sri Lanka,2002,Both sexes,28.3,7.0,81.0
+Sri Lanka,2003,Both sexes,29.4,7.0,81.0
+Sri Lanka,2006,Both sexes,27.4,7.0,81.0
+Suriname,1985,Both sexes,39.2,4.0,-56.0
+Suriname,1986,Both sexes,17.7,4.0,-56.0
+Suriname,1987,Both sexes,21.0,4.0,-56.0
+Suriname,1988,Both sexes,17.5,4.0,-56.0
+Suriname,1989,Both sexes,17.7,4.0,-56.0
+Suriname,1990,Both sexes,17.8,4.0,-56.0
+Suriname,1991,Both sexes,18.0,4.0,-56.0
+Suriname,1992,Both sexes,11.5,4.0,-56.0
+Suriname,1995,Both sexes,15.2,4.0,-56.0
+Suriname,1996,Both sexes,7.0,4.0,-56.0
+Suriname,1997,Both sexes,9.6,4.0,-56.0
+Suriname,1998,Both sexes,8.5,4.0,-56.0
+Suriname,1999,Both sexes,18.1,4.0,-56.0
+Suriname,2000,Both sexes,10.7,4.0,-56.0
+Suriname,2001,Both sexes,18.2,4.0,-56.0
+Suriname,2002,Both sexes,17.9,4.0,-56.0
+Suriname,2003,Both sexes,20.5,4.0,-56.0
+Suriname,2004,Both sexes,16.8,4.0,-56.0
+Suriname,2005,Both sexes,17.6,4.0,-56.0
+Suriname,2006,Both sexes,24.9,4.0,-56.0
+Suriname,2007,Both sexes,29.7,4.0,-56.0
+Suriname,2008,Both sexes,34.7,4.0,-56.0
+Suriname,2009,Both sexes,30.8,4.0,-56.0
+Suriname,2010,Both sexes,35.4,4.0,-56.0
+Suriname,2011,Both sexes,29.4,4.0,-56.0
+Suriname,2012,Both sexes,37.8,4.0,-56.0
+Suriname,2013,Both sexes,23.9,4.0,-56.0
+Suriname,2014,Both sexes,29.8,4.0,-56.0
+Sweden,1987,Both sexes,19.2,62.0,15.0
+Sweden,1988,Both sexes,19.3,62.0,15.0
+Sweden,1989,Both sexes,19.9,62.0,15.0
+Sweden,1990,Both sexes,18.5,62.0,15.0
+Sweden,1991,Both sexes,18.1,62.0,15.0
+Sweden,1992,Both sexes,16.7,62.0,15.0
+Sweden,1993,Both sexes,16.7,62.0,15.0
+Sweden,1994,Both sexes,16.3,62.0,15.0
+Sweden,1995,Both sexes,16.0,62.0,15.0
+Sweden,1996,Both sexes,14.9,62.0,15.0
+Sweden,1997,Both sexes,13.9,62.0,15.0
+Sweden,1998,Both sexes,14.6,62.0,15.0
+Sweden,1999,Both sexes,14.4,62.0,15.0
+Sweden,2000,Both sexes,13.5,62.0,15.0
+Sweden,2001,Both sexes,14.0,62.0,15.0
+Sweden,2002,Both sexes,13.6,62.0,15.0
+Sweden,2003,Both sexes,12.8,62.0,15.0
+Sweden,2004,Both sexes,13.1,62.0,15.0
+Sweden,2005,Both sexes,13.7,62.0,15.0
+Sweden,2006,Both sexes,13.4,62.0,15.0
+Sweden,2007,Both sexes,12.3,62.0,15.0
+Sweden,2008,Both sexes,13.0,62.0,15.0
+Sweden,2009,Both sexes,13.4,62.0,15.0
+Sweden,2010,Both sexes,12.2,62.0,15.0
+Sweden,2011,Both sexes,11.8,62.0,15.0
+Sweden,2012,Both sexes,12.3,62.0,15.0
+Sweden,2013,Both sexes,13.2,62.0,15.0
+Sweden,2014,Both sexes,12.4,62.0,15.0
+Sweden,2015,Both sexes,12.4,62.0,15.0
+Sweden,2016,Both sexes,13.9,62.0,15.0
+Switzerland,1995,Both sexes,23.6,47.0,8.0
+Switzerland,1996,Both sexes,23.3,47.0,8.0
+Switzerland,1997,Both sexes,22.2,47.0,8.0
+Switzerland,1998,Both sexes,22.8,47.0,8.0
+Switzerland,1999,Both sexes,21.0,47.0,8.0
+Switzerland,2000,Both sexes,22.2,47.0,8.0
+Switzerland,2001,Both sexes,21.8,47.0,8.0
+Switzerland,2002,Both sexes,22.8,47.0,8.0
+Switzerland,2003,Both sexes,20.2,47.0,8.0
+Switzerland,2004,Both sexes,20.2,47.0,8.0
+Switzerland,2005,Both sexes,20.5,47.0,8.0
+Switzerland,2006,Both sexes,20.1,47.0,8.0
+Switzerland,2007,Both sexes,21.3,47.0,8.0
+Switzerland,2008,Both sexes,19.8,47.0,8.0
+Switzerland,2009,Both sexes,15.0,47.0,8.0
+Switzerland,2010,Both sexes,13.4,47.0,8.0
+Switzerland,2011,Both sexes,14.0,47.0,8.0
+Switzerland,2012,Both sexes,13.8,47.0,8.0
+Switzerland,2013,Both sexes,14.2,47.0,8.0
+Switzerland,2014,Both sexes,13.5,47.0,8.0
+Switzerland,2015,Both sexes,13.7,47.0,8.0
+Thailand,1985,Both sexes,6.9,15.0,100.0
+Thailand,1986,Both sexes,6.0,15.0,100.0
+Thailand,1987,Both sexes,6.8,15.0,100.0
+Thailand,1990,Both sexes,8.0,15.0,100.0
+Thailand,1991,Both sexes,7.2,15.0,100.0
+Thailand,1992,Both sexes,6.9,15.0,100.0
+Thailand,1994,Both sexes,4.7,15.0,100.0
+Thailand,1995,Both sexes,7.8,15.0,100.0
+Thailand,1996,Both sexes,7.8,15.0,100.0
+Thailand,1997,Both sexes,7.2,15.0,100.0
+Thailand,1998,Both sexes,8.3,15.0,100.0
+Thailand,1999,Both sexes,9.1,15.0,100.0
+Thailand,2000,Both sexes,8.8,15.0,100.0
+Thailand,2002,Both sexes,8.6,15.0,100.0
+Thailand,2003,Both sexes,7.6,15.0,100.0
+Thailand,2004,Both sexes,7.2,15.0,100.0
+Thailand,2005,Both sexes,6.5,15.0,100.0
+Thailand,2006,Both sexes,5.8,15.0,100.0
+Thailand,2007,Both sexes,6.6,15.0,100.0
+Thailand,2008,Both sexes,6.5,15.0,100.0
+Thailand,2009,Both sexes,6.5,15.0,100.0
+Thailand,2010,Both sexes,6.7,15.0,100.0
+Thailand,2011,Both sexes,6.5,15.0,100.0
+Thailand,2012,Both sexes,6.7,15.0,100.0
+Thailand,2013,Both sexes,6.6,15.0,100.0
+Thailand,2014,Both sexes,6.4,15.0,100.0
+Thailand,2015,Both sexes,6.8,15.0,100.0
+Thailand,2016,Both sexes,7.7,15.0,100.0
+Trinidad and Tobago,1985,Both sexes,2.5,11.0,-61.0
+Trinidad and Tobago,1986,Both sexes,10.3,11.0,-61.0
+Trinidad and Tobago,1987,Both sexes,13.0,11.0,-61.0
+Trinidad and Tobago,1988,Both sexes,19.1,11.0,-61.0
+Trinidad and Tobago,1989,Both sexes,16.5,11.0,-61.0
+Trinidad and Tobago,1990,Both sexes,15.5,11.0,-61.0
+Trinidad and Tobago,1991,Both sexes,12.8,11.0,-61.0
+Trinidad and Tobago,1992,Both sexes,16.2,11.0,-61.0
+Trinidad and Tobago,1993,Both sexes,13.5,11.0,-61.0
+Trinidad and Tobago,1994,Both sexes,13.3,11.0,-61.0
+Trinidad and Tobago,1995,Both sexes,20.2,11.0,-61.0
+Trinidad and Tobago,1996,Both sexes,16.4,11.0,-61.0
+Trinidad and Tobago,1997,Both sexes,15.8,11.0,-61.0
+Trinidad and Tobago,1998,Both sexes,16.3,11.0,-61.0
+Trinidad and Tobago,1999,Both sexes,12.1,11.0,-61.0
+Trinidad and Tobago,2000,Both sexes,16.5,11.0,-61.0
+Trinidad and Tobago,2001,Both sexes,17.1,11.0,-61.0
+Trinidad and Tobago,2002,Both sexes,13.3,11.0,-61.0
+Trinidad and Tobago,2003,Both sexes,13.2,11.0,-61.0
+Trinidad and Tobago,2004,Both sexes,15.7,11.0,-61.0
+Trinidad and Tobago,2005,Both sexes,12.0,11.0,-61.0
+Trinidad and Tobago,2006,Both sexes,11.2,11.0,-61.0
+Trinidad and Tobago,2007,Both sexes,12.0,11.0,-61.0
+Trinidad and Tobago,2008,Both sexes,14.9,11.0,-61.0
+Trinidad and Tobago,2009,Both sexes,10.0,11.0,-61.0
+Trinidad and Tobago,2010,Both sexes,12.5,11.0,-61.0
+Trinidad and Tobago,2011,Both sexes,11.6,11.0,-61.0
+Turkey,2009,Both sexes,1.8,39.0,35.0
+Turkey,2010,Both sexes,2.6,39.0,35.0
+Turkey,2011,Both sexes,1.9,39.0,35.0
+Turkey,2012,Both sexes,2.4,39.0,35.0
+Turkey,2013,Both sexes,3.0,39.0,35.0
+Turkey,2014,Both sexes,2.6,39.0,35.0
+Turkey,2015,Both sexes,2.4,39.0,35.0
+Turkmenistan,1987,Both sexes,14.5,40.0,60.0
+Turkmenistan,1988,Both sexes,13.5,40.0,60.0
+Turkmenistan,1989,Both sexes,11.3,40.0,60.0
+Turkmenistan,1990,Both sexes,14.3,40.0,60.0
+Turkmenistan,1991,Both sexes,10.6,40.0,60.0
+Turkmenistan,1992,Both sexes,9.3,40.0,60.0
+Turkmenistan,1993,Both sexes,9.6,40.0,60.0
+Turkmenistan,1994,Both sexes,9.7,40.0,60.0
+Turkmenistan,1995,Both sexes,7.5,40.0,60.0
+Turkmenistan,1996,Both sexes,8.6,40.0,60.0
+Turkmenistan,1997,Both sexes,8.4,40.0,60.0
+Turkmenistan,1998,Both sexes,11.4,40.0,60.0
+Turkmenistan,1999,Both sexes,12.1,40.0,60.0
+Turkmenistan,2000,Both sexes,9.3,40.0,60.0
+Turkmenistan,2001,Both sexes,11.1,40.0,60.0
+Turkmenistan,2002,Both sexes,9.6,40.0,60.0
+Turkmenistan,2003,Both sexes,8.9,40.0,60.0
+Turkmenistan,2004,Both sexes,9.4,40.0,60.0
+Turkmenistan,2005,Both sexes,11.2,40.0,60.0
+Turkmenistan,2006,Both sexes,12.0,40.0,60.0
+Turkmenistan,2007,Both sexes,8.1,40.0,60.0
+Turkmenistan,2008,Both sexes,9.8,40.0,60.0
+Turkmenistan,2009,Both sexes,3.5,40.0,60.0
+Turkmenistan,2010,Both sexes,3.8,40.0,60.0
+Turkmenistan,2011,Both sexes,2.6,40.0,60.0
+Turkmenistan,2012,Both sexes,2.6,40.0,60.0
+Turkmenistan,2013,Both sexes,1.9,40.0,60.0
+Turkmenistan,2014,Both sexes,2.3,40.0,60.0
+Turkmenistan,2015,Both sexes,2.4,40.0,60.0
+Ukraine,1987,Both sexes,24.5,49.0,32.0
+Ukraine,1988,Both sexes,23.9,49.0,32.0
+Ukraine,1989,Both sexes,26.4,49.0,32.0
+Ukraine,1990,Both sexes,24.7,49.0,32.0
+Ukraine,1991,Both sexes,24.8,49.0,32.0
+Ukraine,1992,Both sexes,26.9,49.0,32.0
+Ukraine,1993,Both sexes,29.3,49.0,32.0
+Ukraine,1994,Both sexes,32.0,49.0,32.0
+Ukraine,1995,Both sexes,33.1,49.0,32.0
+Ukraine,1996,Both sexes,33.6,49.0,32.0
+Ukraine,1997,Both sexes,33.0,49.0,32.0
+Ukraine,1998,Both sexes,32.5,49.0,32.0
+Ukraine,1999,Both sexes,31.3,49.0,32.0
+Ukraine,2000,Both sexes,31.4,49.0,32.0
+Ukraine,2001,Both sexes,29.0,49.0,32.0
+Ukraine,2002,Both sexes,28.7,49.0,32.0
+Ukraine,2003,Both sexes,28.1,49.0,32.0
+Ukraine,2004,Both sexes,25.6,49.0,32.0
+Ukraine,2005,Both sexes,24.8,49.0,32.0
+Ukraine,2006,Both sexes,23.6,49.0,32.0
+Ukraine,2007,Both sexes,23.4,49.0,32.0
+Ukraine,2008,Both sexes,22.9,49.0,32.0
+Ukraine,2009,Both sexes,23.3,49.0,32.0
+Ukraine,2010,Both sexes,21.9,49.0,32.0
+Ukraine,2011,Both sexes,22.0,49.0,32.0
+Ukraine,2012,Both sexes,22.4,49.0,32.0
+Ukraine,2014,Both sexes,20.9,49.0,32.0
+Ukraine,2015,Both sexes,20.4,49.0,32.0
+United Arab Emirates,2005,Both sexes,1.3,24.0,54.0
+United Arab Emirates,2006,Both sexes,1.4,24.0,54.0
+United Arab Emirates,2007,Both sexes,1.3,24.0,54.0
+United Arab Emirates,2008,Both sexes,1.0,24.0,54.0
+United Arab Emirates,2009,Both sexes,1.0,24.0,54.0
+United Arab Emirates,2010,Both sexes,1.9,24.0,54.0
+United Kingdom,1985,Both sexes,9.7,54.0,-2.0
+United Kingdom,1986,Both sexes,9.3,54.0,-2.0
+United Kingdom,1987,Both sexes,8.7,54.0,-2.0
+United Kingdom,1988,Both sexes,9.5,54.0,-2.0
+United Kingdom,1989,Both sexes,8.3,54.0,-2.0
+United Kingdom,1990,Both sexes,8.6,54.0,-2.0
+United Kingdom,1991,Both sexes,8.2,54.0,-2.0
+United Kingdom,1992,Both sexes,8.2,54.0,-2.0
+United Kingdom,1993,Both sexes,8.1,54.0,-2.0
+United Kingdom,1994,Both sexes,7.9,54.0,-2.0
+United Kingdom,1995,Both sexes,7.7,54.0,-2.0
+United Kingdom,1996,Both sexes,7.4,54.0,-2.0
+United Kingdom,1997,Both sexes,7.4,54.0,-2.0
+United Kingdom,1998,Both sexes,7.6,54.0,-2.0
+United Kingdom,1999,Both sexes,7.7,54.0,-2.0
+United Kingdom,2000,Both sexes,7.3,54.0,-2.0
+United Kingdom,2001,Both sexes,7.1,54.0,-2.0
+United Kingdom,2002,Both sexes,6.9,54.0,-2.0
+United Kingdom,2003,Both sexes,6.7,54.0,-2.0
+United Kingdom,2004,Both sexes,6.9,54.0,-2.0
+United Kingdom,2005,Both sexes,6.6,54.0,-2.0
+United Kingdom,2006,Both sexes,6.5,54.0,-2.0
+United Kingdom,2007,Both sexes,6.2,54.0,-2.0
+United Kingdom,2008,Both sexes,6.7,54.0,-2.0
+United Kingdom,2009,Both sexes,6.5,54.0,-2.0
+United Kingdom,2010,Both sexes,6.5,54.0,-2.0
+United Kingdom,2011,Both sexes,6.5,54.0,-2.0
+United Kingdom,2012,Both sexes,6.6,54.0,-2.0
+United Kingdom,2013,Both sexes,7.1,54.0,-2.0
+United Kingdom,2014,Both sexes,7.0,54.0,-2.0
+United Kingdom,2015,Both sexes,7.2,54.0,-2.0
+United States,1985,Both sexes,15.4,37.09,-95.71
+United States,1986,Both sexes,16.0,37.09,-95.71
+United States,1987,Both sexes,16.0,37.09,-95.71
+United States,1988,Both sexes,15.6,37.09,-95.71
+United States,1989,Both sexes,15.2,37.09,-95.71
+United States,1990,Both sexes,15.6,37.09,-95.71
+United States,1991,Both sexes,15.3,37.09,-95.71
+United States,1992,Both sexes,14.8,37.09,-95.71
+United States,1993,Both sexes,14.9,37.09,-95.71
+United States,1994,Both sexes,14.7,37.09,-95.71
+United States,1995,Both sexes,14.4,37.09,-95.71
+United States,1996,Both sexes,13.9,37.09,-95.71
+United States,1997,Both sexes,13.5,37.09,-95.71
+United States,1998,Both sexes,13.4,37.09,-95.71
+United States,1999,Both sexes,12.6,37.09,-95.71
+United States,2000,Both sexes,12.2,37.09,-95.71
+United States,2001,Both sexes,12.4,37.09,-95.71
+United States,2002,Both sexes,12.5,37.09,-95.71
+United States,2003,Both sexes,12.1,37.09,-95.71
+United States,2004,Both sexes,12.2,37.09,-95.71
+United States,2005,Both sexes,12.2,37.09,-95.71
+United States,2006,Both sexes,12.1,37.09,-95.71
+United States,2007,Both sexes,12.4,37.09,-95.71
+United States,2008,Both sexes,12.8,37.09,-95.71
+United States,2009,Both sexes,12.8,37.09,-95.71
+United States,2010,Both sexes,13.2,37.09,-95.71
+United States,2011,Both sexes,13.5,37.09,-95.71
+United States,2012,Both sexes,13.8,37.09,-95.71
+United States,2013,Both sexes,13.9,37.09,-95.71
+United States,2014,Both sexes,14.3,37.09,-95.71
+United States,2015,Both sexes,14.6,37.09,-95.71
+Uruguay,1985,Both sexes,14.9,-33.0,-56.0
+Uruguay,1986,Both sexes,14.4,-33.0,-56.0
+Uruguay,1987,Both sexes,13.7,-33.0,-56.0
+Uruguay,1988,Both sexes,13.7,-33.0,-56.0
+Uruguay,1989,Both sexes,16.4,-33.0,-56.0
+Uruguay,1990,Both sexes,15.1,-33.0,-56.0
+Uruguay,1993,Both sexes,18.6,-33.0,-56.0
+Uruguay,1994,Both sexes,17.8,-33.0,-56.0
+Uruguay,1995,Both sexes,19.8,-33.0,-56.0
+Uruguay,1996,Both sexes,15.7,-33.0,-56.0
+Uruguay,1997,Both sexes,19.5,-33.0,-56.0
+Uruguay,1998,Both sexes,22.0,-33.0,-56.0
+Uruguay,1999,Both sexes,20.3,-33.0,-56.0
+Uruguay,2000,Both sexes,22.9,-33.0,-56.0
+Uruguay,2001,Both sexes,19.7,-33.0,-56.0
+Uruguay,2002,Both sexes,27.6,-33.0,-56.0
+Uruguay,2003,Both sexes,21.6,-33.0,-56.0
+Uruguay,2004,Both sexes,21.5,-33.0,-56.0
+Uruguay,2005,Both sexes,20.1,-33.0,-56.0
+Uruguay,2006,Both sexes,20.7,-33.0,-56.0
+Uruguay,2007,Both sexes,22.2,-33.0,-56.0
+Uruguay,2008,Both sexes,19.5,-33.0,-56.0
+Uruguay,2009,Both sexes,19.8,-33.0,-56.0
+Uruguay,2010,Both sexes,21.5,-33.0,-56.0
+Uruguay,2012,Both sexes,22.0,-33.0,-56.0
+Uruguay,2013,Both sexes,20.8,-33.0,-56.0
+Uruguay,2014,Both sexes,20.7,-33.0,-56.0
+Uruguay,2015,Both sexes,22.5,-33.0,-56.0
+Uzbekistan,1990,Both sexes,10.8,41.0,64.0
+Uzbekistan,1991,Both sexes,10.3,41.0,64.0
+Uzbekistan,1992,Both sexes,9.3,41.0,64.0
+Uzbekistan,1993,Both sexes,9.3,41.0,64.0
+Uzbekistan,1994,Both sexes,9.2,41.0,64.0
+Uzbekistan,1995,Both sexes,9.3,41.0,64.0
+Uzbekistan,1996,Both sexes,10.4,41.0,64.0
+Uzbekistan,1997,Both sexes,9.2,41.0,64.0
+Uzbekistan,1998,Both sexes,9.0,41.0,64.0
+Uzbekistan,1999,Both sexes,9.4,41.0,64.0
+Uzbekistan,2000,Both sexes,10.0,41.0,64.0
+Uzbekistan,2001,Both sexes,9.7,41.0,64.0
+Uzbekistan,2002,Both sexes,7.9,41.0,64.0
+Uzbekistan,2003,Both sexes,6.8,41.0,64.0
+Uzbekistan,2004,Both sexes,5.7,41.0,64.0
+Uzbekistan,2005,Both sexes,5.7,41.0,64.0
+Uzbekistan,2009,Both sexes,5.1,41.0,64.0
+Uzbekistan,2010,Both sexes,5.3,41.0,64.0
+Uzbekistan,2011,Both sexes,5.6,41.0,64.0
+Uzbekistan,2012,Both sexes,6.5,41.0,64.0
+Uzbekistan,2013,Both sexes,6.6,41.0,64.0
+Uzbekistan,2014,Both sexes,7.1,41.0,64.0
+Afghanistan,2012,Both sexes,4.0,33.0,65.0
+Afghanistan,2013,Both sexes,4.0,33.0,65.0
+Afghanistan,2014,Both sexes,3.9,33.0,65.0
+Armenia,2012,Both sexes,7.4,40.0,45.0
+Armenia,2013,Both sexes,6.4,40.0,45.0
+Armenia,2014,Both sexes,6.3,40.0,45.0
+Azerbaijan,2012,Both sexes,4.4,40.5,47.5
+Azerbaijan,2013,Both sexes,4.3,40.5,47.5
+Azerbaijan,2014,Both sexes,4.2,40.5,47.5
+Bangladesh,2012,Both sexes,3.7,24.0,90.0
+Bangladesh,2013,Both sexes,3.5,24.0,90.0
+Bangladesh,2014,Both sexes,3.5,24.0,90.0
+Bhutan,2012,Both sexes,4.3,27.5,90.5
+Bhutan,2013,Both sexes,4.4,27.5,90.5
+Bhutan,2014,Both sexes,4.4,27.5,90.5
+Brunei,2012,Both sexes,2.1,4.5,114.67
+Brunei,2013,Both sexes,1.8,4.5,114.67
+Brunei,2014,Both sexes,1.8,4.5,114.67
+Cambodia,2012,Both sexes,5.2,13.0,105.0
+Cambodia,2013,Both sexes,5.2,13.0,105.0
+Cambodia,2014,Both sexes,5.1,13.0,105.0
+China,2012,Both sexes,9.0,35.0,105.0
+China,2013,Both sexes,8.6,35.0,105.0
+China,2014,Both sexes,8.4,35.0,105.0
+Cyprus,2012,Both sexes,5.4,35.0,33.0
+Cyprus,2013,Both sexes,5.7,35.0,33.0
+Cyprus,2014,Both sexes,5.4,35.0,33.0
+Dem. Rep. Korea,2012,Both sexes,9.7,40.0,127.0
+Dem. Rep. Korea,2013,Both sexes,9.9,40.0,127.0
+Dem. Rep. Korea,2014,Both sexes,10.0,40.0,127.0
+Georgia,2012,Both sexes,9.2,42.0,43.5
+Georgia,2013,Both sexes,9.8,42.0,43.5
+Georgia,2014,Both sexes,10.3,42.0,43.5
+India,2012,Both sexes,14.3,20.0,77.0
+India,2013,Both sexes,13.7,20.0,77.0
+India,2014,Both sexes,12.8,20.0,77.0
+Indonesia,2012,Both sexes,2.5,-5.0,120.0
+Indonesia,2013,Both sexes,2.5,-5.0,120.0
+Indonesia,2014,Both sexes,2.4,-5.0,120.0
+Iran,2012,Both sexes,6.7,32.0,53.0
+Iran,2013,Both sexes,6.6,32.0,53.0
+Iran,2014,Both sexes,6.5,32.0,53.0
+Iraq,2012,Both sexes,4.1,33.0,44.0
+Iraq,2013,Both sexes,4.2,33.0,44.0
+Iraq,2014,Both sexes,4.1,33.0,44.0
+Israel,2012,Both sexes,6.1,31.5,34.75
+Israel,2013,Both sexes,5.2,31.5,34.75
+Israel,2014,Both sexes,5.1,31.5,34.75
+Japan,2012,Both sexes,21.6,36.0,138.0
+Japan,2013,Both sexes,21.4,36.0,138.0
+Japan,2014,Both sexes,20.1,36.0,138.0
+Jordan,2012,Both sexes,1.5,31.0,36.0
+Jordan,2013,Both sexes,1.5,31.0,36.0
+Jordan,2014,Both sexes,1.5,31.0,36.0
+Kazakhstan,2012,Both sexes,27.6,48.0,68.0
+Kazakhstan,2013,Both sexes,26.3,48.0,68.0
+Kazakhstan,2014,Both sexes,24.2,48.0,68.0
+Kuwait,2012,Both sexes,2.4,29.34,47.66
+Kuwait,2013,Both sexes,2.4,29.34,47.66
+Kuwait,2014,Both sexes,2.5,29.34,47.66
+Kyrgyzstan,2012,Both sexes,10.9,41.0,75.0
+Kyrgyzstan,2013,Both sexes,10.5,41.0,75.0
+Kyrgyzstan,2014,Both sexes,10.5,41.0,75.0
+Lao PDR,2012,Both sexes,5.7,18.0,105.0
+Lao PDR,2013,Both sexes,5.7,18.0,105.0
+Lao PDR,2014,Both sexes,5.5,18.0,105.0
+Lebanon,2012,Both sexes,3.0,33.83,35.83
+Lebanon,2013,Both sexes,3.0,33.83,35.83
+Lebanon,2014,Both sexes,2.8,33.83,35.83
+Malaysia,2012,Both sexes,4.6,2.5,112.5
+Malaysia,2013,Both sexes,4.4,2.5,112.5
+Malaysia,2014,Both sexes,4.6,2.5,112.5
+Mongolia,2012,Both sexes,21.7,46.0,105.0
+Mongolia,2013,Both sexes,21.0,46.0,105.0
+Mongolia,2014,Both sexes,20.0,46.0,105.0
+Myanmar,2012,Both sexes,3.3,22.0,98.0
+Myanmar,2013,Both sexes,3.3,22.0,98.0
+Myanmar,2014,Both sexes,3.2,22.0,98.0
+Nepal,2012,Both sexes,8.9,28.0,84.0
+Nepal,2013,Both sexes,8.7,28.0,84.0
+Nepal,2014,Both sexes,8.5,28.0,84.0
+Oman,2012,Both sexes,5.4,21.0,57.0
+Oman,2013,Both sexes,5.3,21.0,57.0
+Oman,2014,Both sexes,5.1,21.0,57.0
+Pakistan,2012,Both sexes,8.8,30.0,70.0
+Pakistan,2013,Both sexes,8.9,30.0,70.0
+Pakistan,2014,Both sexes,8.9,30.0,70.0
+Philippines,2012,Both sexes,2.4,13.0,122.0
+Philippines,2013,Both sexes,2.4,13.0,122.0
+Philippines,2014,Both sexes,2.3,13.0,122.0
+Qatar,2012,Both sexes,7.4,25.5,51.25
+Qatar,2013,Both sexes,6.7,25.5,51.25
+Qatar,2014,Both sexes,6.3,25.5,51.25
+Korea,2012,Both sexes,30.2,37.0,127.5
+Korea,2013,Both sexes,30.6,37.0,127.5
+Korea,2014,Both sexes,29.0,37.0,127.5
+Saudi Arabia,2012,Both sexes,6.4,25.0,45.0
+Saudi Arabia,2013,Both sexes,6.5,25.0,45.0
+Saudi Arabia,2014,Both sexes,6.6,25.0,45.0
+Sri Lanka,2012,Both sexes,16.6,7.0,81.0
+Sri Lanka,2013,Both sexes,15.2,7.0,81.0
+Sri Lanka,2014,Both sexes,13.1,7.0,81.0
+Syria,2012,Both sexes,1.6,35.0,38.0
+Syria,2013,Both sexes,1.8,35.0,38.0
+Syria,2014,Both sexes,1.8,35.0,38.0
+Tajikistan,2012,Both sexes,4.1,39.0,71.0
+Tajikistan,2013,Both sexes,4.0,39.0,71.0
+Tajikistan,2014,Both sexes,4.1,39.0,71.0
+Thailand,2012,Both sexes,7.9,15.0,100.0
+Thailand,2013,Both sexes,7.5,15.0,100.0
+Thailand,2014,Both sexes,7.8,15.0,100.0
+Timor-Leste,2012,Both sexes,3.3,-8.874217,125.727539
+Timor-Leste,2013,Both sexes,3.3,-8.874217,125.727539
+Timor-Leste,2014,Both sexes,3.4,-8.874217,125.727539
+Turkey,2012,Both sexes,2.2,39.0,35.0
+Turkey,2013,Both sexes,2.3,39.0,35.0
+Turkey,2014,Both sexes,2.3,39.0,35.0
+Turkmenistan,2012,Both sexes,7.1,40.0,60.0
+Turkmenistan,2013,Both sexes,7.1,40.0,60.0
+Turkmenistan,2014,Both sexes,6.8,40.0,60.0
+United Arab Emirates,2012,Both sexes,7.9,24.0,54.0
+United Arab Emirates,2013,Both sexes,7.5,24.0,54.0
+United Arab Emirates,2014,Both sexes,7.0,24.0,54.0
+Uzbekistan,2012,Both sexes,8.9,41.0,64.0
+Uzbekistan,2013,Both sexes,8.9,41.0,64.0
+Uzbekistan,2014,Both sexes,9.0,41.0,64.0
+Vietnam,2012,Both sexes,7.4,16.0,106.0
+Vietnam,2013,Both sexes,7.5,16.0,106.0
+Vietnam,2014,Both sexes,7.6,16.0,106.0
+Yemen,2012,Both sexes,5.7,15.0,48.0
+Yemen,2013,Both sexes,5.7,15.0,48.0
+Yemen,2014,Both sexes,5.7,15.0,48.0
